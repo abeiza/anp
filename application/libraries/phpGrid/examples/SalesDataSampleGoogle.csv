@@ -1,0 +1,999 @@
+Transaction_date,Product,Price,Payment_Type,Name,Country,Account_Created,Latitude,Longitude
+1/2/2009 6:17:00,Product1,1200,Mastercard,carolina,United Kingdom,1/2/2009 6:00:00,51.5,-1.1166667
+1/2/2009 4:53:00,Product1,1200,Visa,Betina,United States,1/2/2009 4:42:00,39.195,-94.68194
+1/2/2009 13:08:00,Product1,1200,Mastercard,Federica e Andrea,United States,1/1/2009 16:21:00,46.18806,-123.83
+1/3/2009 14:44:00,Product1,1200,Visa,Gouya,Australia,9/25/2005 21:13:00,-36.1333333,144.75
+1/4/2009 12:56:00,Product2,3600,Visa,Gerd W,United States,11/15/2008 15:47:00,33.52056,-86.8025
+1/4/2009 13:19:00,Product1,1200,Visa,LAURENCE,United States,9/24/2008 15:19:00,39.79,-75.23806
+1/4/2009 20:11:00,Product1,1200,Mastercard,Fleur,United States,1/3/2009 9:38:00,40.69361,-89.58889
+1/2/2009 20:09:00,Product1,1200,Mastercard,adam,United States,1/2/2009 17:43:00,36.34333,-88.85028
+1/4/2009 13:17:00,Product1,1200,Mastercard,Renee Elisabeth,Israel,1/4/2009 13:03:00,32.0666667,34.7666667
+1/4/2009 14:11:00,Product1,1200,Visa,Aidan,France,6/3/2008 4:22:00,48.8833333,2.15
+1/5/2009 2:42:00,Product1,1200,Diners,Stacy,United States,1/5/2009 2:23:00,40.71417,-74.00639
+1/5/2009 5:39:00,Product1,1200,Amex,Heidi,Netherlands,1/5/2009 4:55:00,51.45,5.4666667
+1/2/2009 9:16:00,Product1,1200,Mastercard,Sean,United States,1/2/2009 8:32:00,29.42389,-98.49333
+1/5/2009 10:08:00,Product1,1200,Visa,Georgia,United States,11/11/2008 15:53:00,43.69556,-116.35306
+1/2/2009 14:18:00,Product1,1200,Visa,Richard,United States,12/9/2008 12:07:00,40.03222,-74.95778
+1/4/2009 1:05:00,Product1,1200,Diners,Leanne,Ireland,1/4/2009 0:00:00,53.6772222,-6.3191667
+1/5/2009 11:37:00,Product1,1200,Visa,Janet,Canada,1/5/2009 9:35:00,45.4166667,-75.7
+1/6/2009 5:02:00,Product1,1200,Diners,barbara,India,1/6/2009 2:41:00,17.3833333,78.4666667
+1/6/2009 7:45:00,Product2,3600,Visa,Sabine,United Kingdom,1/6/2009 7:00:00,51.52721,0.14559
+1/2/2009 7:35:00,Product1,1200,Diners,Hani,United States,12/30/2008 5:44:00,40.76083,-111.89028
+1/6/2009 12:56:00,Product1,1200,Visa,Jeremy,United Kingdom,1/6/2009 10:58:00,53.5,-2.2166667
+1/1/2009 11:05:00,Product1,1200,Diners,Janis,Ireland,12/10/2007 12:37:00,51.8630556,-8.58
+1/5/2009 4:10:00,Product1,1200,Mastercard,Nicola,South Africa,1/5/2009 2:33:00,-26.1666667,27.8666667
+1/6/2009 7:18:00,Product1,1200,Visa,asuman,United States,1/6/2009 7:07:00,32.64,-117.08333
+1/2/2009 1:11:00,Product1,1200,Mastercard,Lena,Finland,12/31/2008 2:48:00,62.9,27.6833333
+1/1/2009 2:24:00,Product1,1200,Visa,Lisa,United States,1/1/2009 1:56:00,29.61944,-95.63472
+1/7/2009 8:08:00,Product1,1200,Diners,Bryan Kerrene,United States,1/7/2009 7:39:00,40.71417,-74.00639
+1/2/2009 2:57:00,Product1,1200,Visa,chris,United Kingdom,1/3/2008 7:23:00,51.52721,0.14559
+1/1/2009 20:21:00,Product1,1200,Visa,Maxine,United States,10/24/2008 6:48:00,40.61278,-89.45917
+1/8/2009 0:42:00,Product1,1200,Visa,Family,United States,1/8/2009 0:28:00,37.22667,-121.97361
+1/8/2009 3:56:00,Product1,1200,Mastercard,Katherine,United States,1/8/2009 3:33:00,40.71417,-74.00639
+1/8/2009 3:16:00,Product1,1200,Mastercard,Linda,United States,1/8/2009 3:06:00,25.77389,-80.19389
+1/8/2009 1:59:00,Product1,1200,Mastercard,SYLVIA,Switzerland,11/28/2007 11:56:00,46.2333333,6.2
+1/3/2009 9:03:00,Product1,1200,Diners,Sheila,United States,1/3/2009 8:47:00,40.65,-73.95
+1/5/2009 13:17:00,Product1,1200,Mastercard,Stephanie,Netherlands,1/5/2009 12:45:00,52.3333333,4.7833333
+1/6/2009 7:46:00,Product1,1200,Amex,Kelly,United States,1/6/2009 7:30:00,38.96861,-77.34139
+1/5/2009 20:00:00,Product2,3600,Visa,James,Australia,12/10/2008 19:53:00,-27.1666667,152.95
+1/8/2009 16:24:00,Product1,1200,Visa,jennifer,United States,1/8/2009 15:57:00,33.44833,-112.07333
+1/9/2009 6:39:00,Product1,1200,Mastercard,Anneli,United States,1/9/2009 5:09:00,29.76306,-95.36306
+1/6/2009 22:19:00,Product2,3600,Amex,Ritz,United States,1/6/2009 12:00:00,43.77222,-72.81333
+1/6/2009 23:00:00,Product2,3600,Amex,Sylvia,United States,1/6/2009 12:00:00,43.77222,-72.81333
+1/7/2009 7:44:00,Product1,1200,Mastercard,Marie,United States,1/7/2009 5:35:00,34.33806,-84.37667
+1/3/2009 13:24:00,Product1,1200,Visa,Mehmet Fatih,Denmark,1/3/2009 12:47:00,56.0333333,12.6166667
+1/7/2009 15:12:00,Product2,3600,Visa,Anabela,United States,1/5/2009 19:55:00,41.54278,-87.68472
+1/7/2009 20:15:00,Product1,1200,Amex,Nicole,United States,1/7/2009 17:17:00,29.76306,-95.36306
+1/3/2009 10:11:00,Product2,3600,Visa,Christiane,United States,1/3/2009 9:27:00,26.46111,-80.07306
+1/9/2009 15:58:00,Product1,1200,Mastercard,Sari,United Kingdom,1/9/2009 14:53:00,51.4,-1.3166667
+1/3/2009 13:11:00,Product1,1200,Mastercard,simone,Denmark,10/31/2008 0:31:00,55.6666667,12.5833333
+1/10/2009 12:57:00,Product1,1200,Amex,Vanessa,United States,2/7/2007 20:16:00,33.92417,-84.37861
+1/10/2009 14:43:00,Product1,1200,Diners,Anupam,Ireland,1/9/2009 11:38:00,53.4247222,-6.1758333
+1/10/2009 12:05:00,Product1,1200,Visa,Karina,United States,7/1/2008 12:53:00,26.12194,-80.14361
+1/6/2009 1:20:00,Product1,1200,Mastercard,Frank,Australia,1/2/2009 17:51:00,-37.8166667,144.9666667
+1/10/2009 14:56:00,Product1,1200,Visa,Angela,United States,1/8/2009 3:06:00,41.72972,-93.60556
+1/7/2009 10:01:00,Product1,1200,Visa,Darren,United States,1/7/2009 9:04:00,35.72,-79.1775
+1/1/2009 1:26:00,Product1,1200,Mastercard,Nikki,United States,1/1/2009 0:58:00,40.91139,-73.78278
+1/11/2009 2:04:00,Product1,1200,Visa,chris,Australia,1/11/2009 0:33:00,-28,153.4333333
+1/11/2009 14:17:00,Product1,1200,Visa,Stephanie,Belgium,1/11/2009 13:39:00,50.8333333,4.3333333
+1/10/2009 21:38:00,Product1,1200,Visa,Anushka,Canada,1/10/2009 21:17:00,49.25,-122.5
+1/7/2009 6:18:00,Product1,1200,Mastercard,June,United States,2/23/2006 11:56:00,41.46444,-81.50889
+1/4/2009 8:39:00,Product2,3600,Diners,Baybars,Canada,1/3/2009 17:17:00,53.2,-105.75
+1/5/2009 0:31:00,Product1,1200,Mastercard,Bonnie,Sweden,1/4/2009 23:45:00,59.2833333,18.3
+1/2/2009 6:07:00,Product1,1200,Visa,Cindy,United Kingdom,12/30/2008 10:21:00,51.6766667,-2.0180556
+1/12/2009 3:25:00,Product1,1200,Mastercard,chrissy,United States,1/12/2009 3:12:00,43.64917,-72.31083
+1/4/2009 13:56:00,Product1,1200,Mastercard,Tamar,United Kingdom,11/29/2007 9:23:00,51.1166667,-0.8166667
+1/7/2009 0:12:00,Product2,3600,Mastercard,Deirdre,Switzerland,12/1/2008 6:25:00,46.5333333,6.6666667
+1/12/2009 5:18:00,Product1,1200,Mastercard,Bernadett,United Kingdom,1/12/2009 4:45:00,50.9,-1.4
+1/8/2009 15:16:00,Product1,1200,Visa,Dottie,United States,1/8/2009 14:56:00,39.53306,-77.315
+1/11/2009 11:33:00,Product1,1200,Visa,Stefan,Norway,1/11/2009 9:02:00,58.9666667,5.75
+1/7/2009 20:22:00,Product1,1200,Visa,Gina,Canada,11/23/2008 19:30:00,52.2666667,-113.8
+1/2/2009 22:00:00,Product1,1200,Diners,Lynne,United States,1/2/2009 21:04:00,35.14944,-90.04889
+1/5/2009 13:52:00,Product1,1200,Mastercard,Tammy,Switzerland,1/5/2009 5:55:00,46.5166667,6.5
+1/8/2009 20:32:00,Product1,1200,Visa,Kim,Canada,1/8/2009 20:21:00,51.0833333,-114.0833333
+1/8/2009 13:34:00,Product1,1200,Visa,Bruce,Canada,1/6/2009 14:38:00,44.1666667,-77.3833333
+1/11/2009 13:08:00,Product1,1200,Visa,Rosa Maria,United States,1/11/2009 12:38:00,39.16194,-84.45694
+1/12/2009 19:04:00,Product1,1200,Visa,Lydia,Canada,9/20/2008 20:53:00,49.6833333,-124.9333333
+1/12/2009 13:41:00,Product1,1200,Visa,Eric,Luxembourg,1/12/2009 13:16:00,49.5855556,6.1230556
+1/11/2009 10:38:00,Product1,1200,Mastercard,AnaPaula,United Kingdom,9/4/2008 9:26:00,54.65,-5.7333333
+1/13/2009 5:57:00,Product1,1200,Visa,Robin,Italy,10/15/2008 5:31:00,45.4666667,9.2
+1/13/2009 6:13:00,Product1,1200,Visa,Gitte,United States,1/13/2009 5:17:00,40.63667,-74.15917
+1/8/2009 13:14:00,Product1,1200,Visa,Dr. Claudia,Norway,1/8/2009 12:47:00,59.9166667,10.75
+1/2/2009 11:41:00,Product1,1200,Visa,Crystal,United States,1/1/2009 12:00:00,42.46444,-83.37639
+1/7/2009 19:50:00,Product1,1200,Diners,Delphine,United States,1/3/2009 12:04:00,34.01944,-118.49028
+1/1/2009 20:28:00,Product1,1200,Visa,nathalie,Canada,1/1/2009 20:11:00,51.0833333,-114.0833333
+1/3/2009 15:22:00,Product1,1200,Mastercard,Lindi,Canada,2/20/2008 22:45:00,49.25,-123.1333333
+1/12/2009 3:03:00,Product2,3600,Mastercard,Valda,United States,1/12/2009 2:48:00,33.66944,-117.82222
+1/5/2009 8:58:00,Product2,3600,Mastercard,Marcia,Germany,9/1/2008 3:39:00,52.3333333,7.9
+1/10/2009 14:03:00,Product1,1200,Mastercard,Kevin,United Kingdom,3/13/2006 4:56:00,51.9,-2.0833333
+1/13/2009 11:26:00,Product1,1200,Visa,Clare,United States,1/13/2009 11:15:00,37.61917,-75.76417
+1/2/2009 12:18:00,Product1,1200,Visa,Alice,Denmark,12/5/2007 11:37:00,54.8333333,11.15
+1/14/2009 4:54:00,Product1,1200,Mastercard,ZENA,United States,1/14/2009 4:34:00,21.30694,-157.85833
+1/6/2009 17:15:00,Product1,1200,Visa,Andrea,Moldova,12/24/2008 17:31:00,46.985,28.9425
+1/3/2009 13:56:00,Product1,1200,Visa,Rennae,United States,1/3/2009 12:30:00,30.66944,-81.46278
+1/4/2009 7:54:00,Product1,1200,Visa,Gerhard,Canada,10/21/2005 21:49:00,44.15,-79.8666667
+1/12/2009 7:28:00,Product1,1200,Amex,Megan,Spain,12/10/2008 16:41:00,37.9333333,-1.1333333
+1/6/2009 15:15:00,Product1,1200,Mastercard,Danielle,Ireland,1/6/2009 14:59:00,53.3122222,-6.2683333
+1/13/2009 23:56:00,Product1,1200,Mastercard,Tod,United States,1/13/2009 23:13:00,25.72111,-80.26861
+1/14/2009 19:32:00,Product1,1200,Visa,Janaina,United States,12/16/2008 22:19:00,25.77389,-80.19389
+1/6/2009 21:13:00,Product1,1200,Visa,Kofi,Canada,1/7/2008 21:16:00,49.25,-123.1333333
+1/14/2009 11:19:00,Product1,1200,Visa,Jennifer,United Arab Emirates,1/14/2009 10:44:00,25.2097222,55.2477778
+1/13/2009 19:39:00,Product1,1200,Visa,Jolene,United States,1/6/2009 22:00:00,39.64778,-104.98722
+1/8/2009 7:26:00,Product1,1200,Mastercard,anne,United Kingdom,1/25/2008 15:46:00,50.7166667,-1.8833333
+1/15/2009 2:40:00,Product1,1200,Mastercard,Alexis,United States,1/15/2009 2:04:00,42.09722,-88.69278
+1/12/2009 6:40:00,Product1,1200,Visa,Dez,Bahrain,1/10/2009 12:50:00,26.2172222,50.5405556
+1/15/2009 3:43:00,Product1,1200,Visa,Stephanie,France,12/26/2008 9:01:00,49.4333333,1.0833333
+1/5/2009 15:39:00,Product1,1200,Visa,Melissa,United States,12/10/2008 9:14:00,26.30972,-80.2375
+1/10/2009 5:21:00,Product1,1200,Amex,CLARE,United States,1/10/2009 0:07:00,37.775,-122.41833
+1/15/2009 4:12:00,Product1,1200,Mastercard,catherine,United States,1/15/2009 4:02:00,37.61917,-75.76417
+1/12/2009 11:48:00,Product1,1200,Visa,Veronique,Canada,7/24/2008 15:48:00,49.0166667,-123.0833333
+1/6/2009 10:48:00,Product1,1200,Mastercard,Bruce and Camille,United States,8/21/2007 21:19:00,40.63667,-74.91028
+1/14/2009 9:10:00,Product1,1200,Mastercard,Ellen,United States,1/14/2009 8:25:00,37.77417,-87.11333
+1/14/2009 22:44:00,Product1,1200,Visa,Amy,United States,1/14/2009 22:21:00,33.1425,-96.96917
+1/6/2009 7:23:00,Product1,1200,Visa,Anna,Canada,7/21/2008 12:03:00,50.7166667,-113.9666667
+1/1/2009 5:04:00,Product1,1200,Mastercard,Regina,Netherlands,12/16/2002 4:09:00,53.1333333,6.6333333
+1/15/2009 11:56:00,Product1,1200,Visa,Heidi,Canada,1/14/2009 9:16:00,51.0833333,-114.0833333
+1/15/2009 11:58:00,Product1,1200,Visa,Jessica,Canada,1/14/2009 5:59:00,45.3333333,-75.9
+1/12/2009 9:43:00,Product1,1200,Diners,Petra,Germany,1/7/2009 8:39:00,51.7166667,6.5
+1/15/2009 12:33:00,Product1,1200,Visa,Brian,United States,1/15/2009 12:19:00,38.98056,-76.93722
+1/14/2009 11:35:00,Product1,1200,Visa,Kenny,United States,1/13/2009 17:42:00,19.7349,-155.9003
+1/14/2009 15:40:00,Product1,1200,Amex,ayse,United States,1/13/2009 19:37:00,33.84917,-118.3875
+1/3/2009 11:08:00,Product1,1200,Amex,Maria and Timothy,United States,6/5/2006 22:42:00,33.61167,-111.71667
+1/12/2009 1:37:00,Product1,1200,Visa,IMAN,Australia,1/12/2009 1:26:00,-27.5,153.0166667
+1/16/2009 7:21:00,Product1,2100,Mastercard,Gerald,United States,11/3/2008 14:28:00,41.37222,-73.73389
+1/15/2009 12:54:00,Product1,1200,Mastercard,Annelies,Canada,1/15/2009 12:22:00,45.4,-73.9333333
+1/7/2009 7:19:00,Product1,1200,Amex,Jocelyn,Belgium,6/30/2008 9:33:00,50.8333333,4.3333333
+1/3/2009 9:56:00,Product1,1200,Visa,Kara,United States,12/31/2008 16:26:00,41.85,-87.65
+1/16/2009 17:41:00,Product1,1200,Visa,Orsi,United States,1/16/2009 17:01:00,30.07972,-95.41694
+1/5/2009 5:33:00,Product1,1200,Visa,Ben,United States,1/5/2009 3:19:00,33.11917,-117.08556
+1/2/2009 0:50:00,Product1,1200,Visa,Sam,Turkey,1/2/2009 0:10:00,40.6166667,29.0666667
+1/13/2009 1:51:00,Product1,1200,Visa,Filip and Teresa,South Africa,1/12/2009 1:40:00,-25.8744444,28.1705556
+1/15/2009 10:24:00,Product1,1200,Visa,Grace,United Kingdom,1/13/2009 12:30:00,53.9666667,-1.0833333
+1/11/2009 8:59:00,Product1,1200,Visa,Chelsey,United States,11/9/2008 5:53:00,39.04361,-77.48778
+1/15/2009 15:56:00,Product1,1200,Amex,Charis,United States,11/11/2005 11:49:00,34.05222,-118.24278
+1/1/2009 12:19:00,Product1,1200,Visa,Marlene,United States,1/16/2006 14:45:00,47.25028,-122.2925
+1/6/2009 14:03:00,Product1,1200,Visa,Fie,United States,5/1/2008 8:26:00,40.71417,-74.00639
+1/9/2009 15:32:00,Product1,1200,Diners,Nicole,United Kingdom,1/7/2009 12:31:00,51.2666667,-1.0833333
+1/17/2009 12:59:00,Product1,1200,Diners,Linda,Netherlands,10/29/2008 13:09:00,52.0833333,4.3
+1/12/2009 12:37:00,Product1,1200,Visa,Janet,United States,9/13/2007 14:20:00,33.9525,-84.55
+1/4/2009 7:43:00,Product1,1200,Mastercard,Jamie,United States,1/4/2009 6:51:00,29.76306,-95.36306
+1/17/2009 16:22:00,Product1,1200,Visa,Chad,United States,1/17/2009 15:22:00,40.79861,-74.23944
+1/1/2009 3:51:00,Product1,1200,Mastercard,sunny,Netherlands,9/14/2005 22:53:00,52.35,4.9166667
+1/18/2009 5:27:00,Product1,1200,Visa,Anna,United States,1/18/2009 4:28:00,33.94,-118.13167
+1/18/2009 5:15:00,Product1,1200,Diners,Roger,Ireland,1/18/2009 4:44:00,52.7205556,-7.5825
+1/1/2009 1:51:00,Product1,1200,Mastercard,Si,Denmark,12/14/2005 15:46:00,55.8166667,12.4666667
+1/18/2009 6:30:00,Product1,1200,Visa,Sherri,Switzerland,6/22/2008 14:10:00,47.2,8.75
+1/11/2009 10:51:00,Product1,1200,Mastercard,Katherine,Germany,12/6/2008 1:34:00,50.0833333,8.45
+1/4/2009 17:02:00,Product1,1200,Mastercard,Clare,United States,12/31/2005 0:55:00,37.88583,-122.11694
+1/17/2009 1:23:00,Product1,1200,Amex,Campbell,Kuwait,1/16/2009 14:26:00,29.2891667,48.05
+1/18/2009 2:16:00,Product1,1200,Visa,Ruth,United States,1/16/2009 19:32:00,33.94556,-93.84694
+1/18/2009 11:34:00,Product2,3600,Visa,Cheryl,United Kingdom,10/28/2005 14:57:00,51.4166667,-0.25
+1/18/2009 4:38:00,Product1,1200,Visa,Doug,United Kingdom,12/28/2007 13:39:00,54.65,-1.6666667
+1/18/2009 13:26:00,Product3,7500,Mastercard,Julianne,Ireland,1/18/2009 12:20:00,53.6527778,-6.6813889
+1/18/2009 11:53:00,Product1,1200,Visa,Shailesh,United States,1/18/2009 0:00:00,39.43361,-76.35806
+1/18/2009 12:04:00,Product1,1200,Visa,Conrad,United States,1/18/2009 0:00:00,39.43361,-76.35806
+1/13/2009 19:54:00,Product1,1200,Diners,Alison,United States,1/3/2006 6:09:00,40.70694,-74.95639
+1/5/2009 21:06:00,Product1,1200,Mastercard,Tracy,United States,1/5/2009 16:27:00,38.25417,-85.75944
+1/14/2009 6:32:00,Product1,1200,Visa,Kate,United States,4/12/2006 6:14:00,39.04361,-77.48778
+1/4/2009 23:48:00,Product1,1200,Diners,Sarka,Canada,1/4/2009 22:41:00,62.45,-114.35
+1/18/2009 16:32:00,Product2,3600,Visa,Therese,United States,1/18/2009 16:23:00,34.05222,-118.24278
+1/18/2009 17:04:00,Product2,3600,Visa,Abdul-L,United States,1/18/2009 16:58:00,40.71417,-74.00639
+1/18/2009 17:20:00,Product2,3600,Visa,heidi,United States,1/18/2009 17:16:00,44.94444,-93.09306
+1/18/2009 17:39:00,Product2,3600,Visa,jiyoung,United States,1/18/2009 17:34:00,40.71417,-74.00639
+1/11/2009 11:20:00,Product1,1200,Visa,Klara,United States,12/31/2008 19:48:00,45.10778,-93.23778
+1/13/2009 20:59:00,Product1,1200,Mastercard,Andrew,Canada,1/13/2009 16:44:00,49.8833333,-97.1666667
+1/12/2009 16:50:00,Product1,1200,Visa,Vicki and Bill,United States,1/4/2009 21:33:00,47.60639,-122.33083
+1/12/2009 15:12:00,Product1,1200,Mastercard,David,United States,1/12/2009 14:07:00,39.83806,-75.15306
+1/6/2009 12:27:00,Product1,1200,Mastercard,Antonella,Netherlands,1/6/2009 12:04:00,52.35,4.9166667
+1/9/2009 18:52:00,Product1,1200,Visa,David,United States,11/25/2008 7:56:00,34.07528,-84.29417
+1/18/2009 23:17:00,Product1,1200,Visa,Greg,United States,1/18/2009 15:18:00,38.895,-77.03667
+1/7/2009 8:21:00,Product1,1200,Visa,Jannik,Norway,1/3/2009 11:06:00,59.9666667,10.6666667
+1/3/2009 9:54:00,Product1,1200,Visa,Sylvia,Turkey,12/29/2008 10:38:00,41.1980556,29.0302778
+1/5/2009 19:37:00,Product1,1200,Amex,Bernadette,United States,11/7/2007 9:49:00,38.895,-77.03667
+1/4/2009 12:49:00,Product1,1200,Diners,Denise,Canada,5/25/2007 10:58:00,45.5,-73.5833333
+1/8/2009 11:55:00,Product2,3600,Visa,Caren,Germany,1/3/2009 12:39:00,52.2666667,10.5333333
+1/14/2009 18:21:00,Product1,1200,Visa,luciana,United States,9/25/2005 6:25:00,33.96083,-83.37806
+1/11/2009 19:01:00,Product1,1200,Diners,Maja,United States,1/11/2009 18:17:00,34.09639,-83.76139
+1/14/2009 5:20:00,Product2,3600,Visa,Kristen,Switzerland,1/12/2009 13:31:00,47.5333333,7.5666667
+1/15/2009 8:07:00,Product1,1200,Visa,Kirstie,United States,12/13/2008 19:35:00,42.48944,-83.14472
+1/15/2009 8:10:00,Product1,1200,Visa,Scott,United States,12/13/2008 19:35:00,42.48944,-83.14472
+1/2/2009 17:45:00,Product1,1200,Mastercard,Jammie,United States,12/9/2005 17:19:00,42.39583,-71.17917
+1/19/2009 16:10:00,Product1,1200,Mastercard,Frank,United States,1/19/2009 15:31:00,41.02278,-73.56528
+1/19/2009 16:55:00,Product1,1200,Mastercard,scott,United States,1/19/2009 16:18:00,25.71222,-80.25722
+1/10/2009 17:41:00,Product1,1200,Visa,Jiri,United States,1/10/2009 16:32:00,38.90111,-77.26556
+1/18/2009 13:49:00,Product2,3600,Visa,Bev,United States,1/11/2009 12:00:00,37.78,-121.97694
+1/15/2009 5:47:00,Product1,1200,Visa,Dave and Amy,United States,1/15/2009 0:21:00,36.84667,-76.28556
+1/19/2009 23:06:00,Product1,1200,Mastercard,Rebecca,United States,1/19/2009 22:53:00,36.84667,-76.28556
+1/19/2009 11:12:00,Product1,1200,Visa,Melissa,United Kingdom,8/27/2008 8:22:00,57.1333333,-2.1
+1/4/2009 1:38:00,Product1,1200,Amex,jeremy,Australia,7/15/2008 21:04:00,-32.95,151.6666667
+1/20/2009 3:11:00,Product1,1200,Visa,Randy,United Kingdom,1/20/2009 3:02:00,53.5333333,-2.6166667
+1/3/2009 10:52:00,Product1,1200,Visa,Djeiny,United States,4/18/2005 9:27:00,39.01806,-77.20889
+1/20/2009 5:24:00,Product3,7500,Mastercard,Amanda,United States,1/20/2009 5:13:00,32.525,-93.75
+1/20/2009 6:03:00,Product1,1200,Mastercard,Andrea,United States,1/20/2009 5:13:00,32.525,-93.75
+1/10/2009 11:37:00,Product1,1200,Amex,Joanna,United States,12/28/2008 20:10:00,40.33667,-74.0475
+1/20/2009 5:50:00,Product1,1200,Visa,Jessica,United Kingdom,1/20/2009 4:23:00,54.8333333,-3.2833333
+1/19/2009 16:32:00,Product1,1200,Amex,alison,United States,1/19/2009 10:24:00,39.95222,-75.16417
+1/18/2009 10:42:00,Product1,1200,Visa,malin,United States,1/18/2009 0:00:00,33.74889,-84.38806
+1/7/2009 6:11:00,Product2,3600,Visa,Tiffany,France,1/7/2009 5:30:00,48.8666667,2.3333333
+1/3/2009 8:29:00,Product1,1200,Visa,Genevieve,United Kingdom,10/10/2008 1:26:00,52.0333333,-0.7
+1/1/2009 2:09:00,Product1,1200,Mastercard,Saraya,Germany,3/12/2006 11:31:00,51.05,13.75
+1/20/2009 12:34:00,Product1,1200,Mastercard,Anastasia,United States,1/20/2009 12:17:00,40.71417,-74.00639
+1/20/2009 3:51:00,Product1,1200,Visa,Elizabeth,Australia,11/12/2008 3:34:00,-24.8166667,152.4166667
+1/15/2009 11:26:00,Product1,1200,Visa,Nicole,United States,7/11/2007 11:18:00,42.33167,-71.12167
+1/5/2009 16:55:00,Product1,1200,Visa,Jeffrey,Canada,9/29/2003 17:08:00,45.6,-73.6166667
+1/12/2009 19:47:00,Product1,1200,Mastercard,Blanca Gabriela,United States,12/10/2008 21:49:00,32.81389,-96.94861
+1/4/2009 19:20:00,Product1,1200,Amex,Elisa,United States,1/4/2009 18:38:00,41.66417,-83.64333
+1/10/2009 8:33:00,Product2,3600,Mastercard,Patricia,United States,2/4/2007 10:09:00,37.38417,-122.23417
+1/9/2009 14:51:00,Product1,1200,Visa,Bob,Australia,1/7/2009 18:15:00,-33.8833333,151.2166667
+1/16/2009 2:41:00,Product3,7500,Visa,Kristyn,United States,1/15/2009 18:01:00,40.66,-111.99556
+1/16/2009 18:36:00,Product1,1200,Visa,Elizabeth,Australia,11/1/2008 16:32:00,-34.4333333,150.8833333
+1/20/2009 8:10:00,Product1,1200,Amex,Cathy,United States,8/5/2007 18:52:00,40.65,-73.95
+1/6/2009 12:45:00,Product2,3600,Amex,Kaylee,United States,1/5/2009 14:06:00,38.29972,-122.66556
+1/10/2009 8:13:00,Product1,1200,Visa,suzanne,United States,1/9/2009 19:15:00,41.67361,-88.00167
+1/7/2009 14:15:00,Product1,1200,Mastercard,Cassandra,United States,1/5/2009 15:42:00,37.50722,-122.25944
+1/8/2009 15:27:00,Product1,1200,Mastercard,Jennifer,United States,1/4/2009 22:22:00,41.85,-87.65
+1/21/2009 11:36:00,Product1,1200,Visa,nicole,Norway,12/23/2008 12:02:00,59.9166667,10.75
+1/21/2009 14:06:00,Product1,1200,Visa,Sean,United States,1/21/2009 12:00:00,40.68361,-73.51056
+1/2/2009 2:28:00,Product1,1200,Mastercard,Morgan,Australia,5/3/2008 4:14:00,-27.8833333,153.3
+1/19/2009 19:07:00,Product1,1200,Diners,Harriet,United States,1/19/2009 16:52:00,34.94889,-85.25694
+1/18/2009 6:27:00,Product1,1200,Mastercard,Janine,United States,10/27/2005 19:22:00,39.24167,-74.81556
+1/20/2009 11:58:00,Product1,1200,Mastercard,Debora,United States,11/1/2008 23:14:00,32.85722,-116.92139
+1/20/2009 16:32:00,Product1,1200,Visa,Vishpala,United States,1/2/2008 9:52:00,26.30972,-80.2375
+1/1/2009 7:09:00,Product1,1200,Amex,Emer,United States,2/28/2005 5:40:00,26.70528,-80.03667
+1/21/2009 14:55:00,Product1,1200,Diners,john,United States,1/21/2009 10:23:00,40.71417,-74.00639
+1/7/2009 22:29:00,Product1,1200,Mastercard,lailani,United States,1/7/2009 13:23:00,61.21806,-149.90028
+1/11/2009 22:22:00,Product2,3600,Visa,STEPHANIE,Australia,12/30/2008 17:48:00,-33.6666667,151.3
+1/21/2009 14:25:00,Product1,1200,Visa,Tricia,Netherlands,12/28/2007 15:28:00,52.55,4.6666667
+1/18/2009 16:50:00,Product1,1200,Visa,Celina,United States,1/18/2009 16:25:00,40.4497,-74.482
+1/21/2009 12:08:00,Product2,3600,Visa,Rosemary,United States,1/21/2009 11:39:00,30.33194,-81.65583
+1/22/2009 6:41:00,Product1,1200,Visa,Patrick,United States,1/22/2009 4:32:00,29.73528,-94.97722
+1/12/2009 9:23:00,Product1,1200,Mastercard,Jacob,United States,1/10/2009 14:55:00,28.02194,-81.73306
+1/22/2009 8:23:00,Product1,1200,Visa,elisabeth,United States,1/22/2009 7:55:00,47.65889,-117.425
+1/3/2009 6:41:00,Product2,3600,Visa,ayelet,Sweden,8/7/2008 9:24:00,55.6,13
+1/1/2009 12:20:00,Product2,3600,Visa,seemab,Malta,9/17/2005 3:32:00,35.9202778,14.4425
+1/4/2009 22:00:00,Product2,3600,Amex,Lucien,Germany,1/4/2009 11:32:00,50.0833333,8.25
+1/21/2009 2:15:00,Product1,1200,Visa,Kevin,United Kingdom,1/8/2009 2:50:00,51.52721,0.14559
+1/1/2009 14:22:00,Product1,1200,Mastercard,Liban,Norway,6/19/2008 10:48:00,58.9666667,5.75
+1/16/2009 1:07:00,Product2,3600,Diners,Lesley,Ireland,1/14/2009 4:10:00,51.8986111,-8.4958333
+1/20/2009 8:51:00,Product1,1200,Visa,Marie,United States,7/23/2008 14:59:00,42.45222,-71.1375
+1/4/2009 9:02:00,Product1,1200,Visa,Charlene,Canada,12/13/2008 19:20:00,51.0833333,-114.0833333
+1/6/2009 8:34:00,Product1,1200,Visa,Orit,United States,1/5/2009 15:00:00,32.78333,-96.8
+1/8/2009 4:16:00,Product1,1200,Visa,Alan,Ireland,4/18/2006 13:26:00,53.4508333,-6.1544444
+1/23/2009 3:33:00,Product2,3600,Mastercard,Anja Langer,United States,1/23/2009 3:00:00,44.94444,-93.09306
+1/6/2009 4:18:00,Product1,1200,Visa,Lina,United Kingdom,1/6/2009 3:38:00,55.95,-3.2
+1/23/2009 3:30:00,Product1,1200,Amex,Larry,Netherlands,1/23/2009 3:27:00,52.3,5.15
+1/10/2009 4:04:00,Product1,1200,Visa,Jessica,Germany,12/20/2008 8:41:00,53.1666667,8.2
+1/5/2009 2:57:00,Product3,7500,Visa,Marion,France,12/29/2008 3:16:00,48.0833333,-1.6833333
+1/21/2009 14:15:00,Product1,1200,Amex,Eric,United States,1/21/2009 13:56:00,39.2475,-114.88778
+1/21/2009 6:39:00,Product1,1200,Amex,Miriane,United States,7/30/2007 21:10:00,36.84667,-76.28556
+1/19/2009 8:14:00,Product1,1200,Visa,Jeff,United States,1/4/2009 12:39:00,29.76306,-95.36306
+1/23/2009 8:00:00,Product1,1200,Diners,christina,Hungary,1/22/2009 9:55:00,47.4166667,19.0833333
+1/22/2009 23:35:00,Product1,1200,Mastercard,Shannon,United States,1/22/2009 23:23:00,41.98111,-89.595
+1/14/2009 3:09:00,Product1,1200,Mastercard,Angela,United Kingdom,4/25/2007 5:08:00,56.3333333,-3.25
+1/16/2009 1:51:00,Product1,1200,Visa,Angela,Austria,1/16/2009 1:38:00,48.2,16.3666667
+1/1/2009 6:29:00,Product1,1200,Mastercard,Elaine,Italy,8/3/2007 2:48:00,45.55,11.55
+1/21/2009 7:59:00,Product1,1200,Visa,Helen,United States,4/7/2008 17:15:00,39.89694,-76.16389
+1/23/2009 7:37:00,Product2,3600,Amex,Fatisha,United States,1/23/2009 6:32:00,25.77389,-80.19389
+1/18/2009 14:39:00,Product1,1200,Visa,Nina,United States,1/5/2009 15:43:00,38.99056,-77.02639
+1/24/2009 9:01:00,Product2,3600,Visa,Barbara,United Kingdom,1/24/2009 8:02:00,56.6666667,-3
+1/15/2009 1:41:00,Product1,1200,Diners,Karen,France,1/14/2009 4:13:00,43.25,5.6166667
+1/17/2009 7:23:00,Product1,1200,Visa,Georgina,United States,11/28/2007 10:05:00,45.52361,-122.675
+1/23/2009 11:37:00,Product1,1200,Diners,Kellie,United States,1/23/2009 10:42:00,40.56472,-74.1275
+1/19/2009 15:02:00,Product1,1200,Mastercard,Terry,United States,1/19/2009 14:43:00,29.42389,-98.49333
+1/11/2009 7:10:00,Product2,3600,Visa,LAURIE,United Kingdom,3/7/2006 5:47:00,51.2166667,-0.5666667
+1/10/2009 3:28:00,Product1,1200,Visa,frauke,Norway,11/24/2008 15:50:00,59.4136111,10.4669444
+1/7/2009 19:03:00,Product2,3600,Mastercard,Cindy,United States,12/17/2007 19:55:00,39.64778,-104.98722
+1/17/2009 14:02:00,Product1,1200,Visa,Simone,United States,12/7/2005 19:48:00,29.42389,-98.49333
+1/25/2009 0:09:00,Product1,1200,Visa,Hilde,United States,6/20/2008 22:08:00,22.22361,-159.48528
+1/9/2009 14:27:00,Product1,1200,Visa,Leah,Ireland,6/14/2007 13:14:00,53.3786111,-6.3922222
+1/9/2009 14:32:00,Product1,1200,Visa,Laine,Ireland,6/14/2007 13:14:00,53.3786111,-6.3922222
+1/11/2009 15:59:00,Product1,1200,Visa,kirsten,United Kingdom,1/17/2006 8:51:00,51.8666667,0.1666667
+1/6/2009 14:38:00,Product2,3600,Mastercard,Elizabeth,Netherlands,5/14/2007 12:48:00,52.0833333,4.3
+1/6/2009 9:52:00,Product1,1200,Mastercard,Anna,United States,1/3/2009 15:01:00,37.88583,-122.11694
+1/1/2009 9:21:00,Product1,1200,Diners,Babs,United Kingdom,1/1/2009 8:05:00,53.8166667,-3.05
+1/3/2009 7:58:00,Product1,1200,Mastercard,Gerlinde,Denmark,1/2/2009 12:27:00,55.7333333,12.5833333
+1/11/2009 11:36:00,Product1,1200,Mastercard,Hollyn,United Kingdom,10/14/2008 14:23:00,51.51334,-0.08895
+1/13/2009 14:53:00,Product1,1200,Visa,leiser,United States,1/13/2009 13:22:00,42.68361,-78.33806
+1/1/2009 10:06:00,Product2,3600,Mastercard,Irene,Germany,1/1/2009 9:13:00,48.15,11.5833333
+1/16/2009 5:07:00,Product1,1200,Amex,Lisa,France,8/6/2007 7:48:00,47.9666667,-0.2333333
+1/6/2009 16:37:00,Product1,1200,Visa,Ann,United States,12/28/2008 12:31:00,30.26694,-97.74278
+1/18/2009 17:21:00,Product1,1200,Mastercard,Nichol Jane,United States,1/11/2009 20:59:00,40.98917,-74.14111
+1/13/2009 15:18:00,Product1,1200,Amex,Beatriz,United States,1/13/2009 14:46:00,40.88528,-73.37667
+1/24/2009 8:21:00,Product1,1200,Mastercard,corina,Austria,7/19/2005 12:42:00,48.25,16.3
+1/24/2009 8:25:00,Product1,1200,Mastercard,manon,Austria,7/19/2005 12:42:00,48.25,16.3
+1/18/2009 13:06:00,Product1,1200,Diners,Isabelle,United States,1/18/2009 8:44:00,44.90333,-93.56611
+1/22/2009 18:44:00,Product1,1200,Visa,Lynne,United States,1/22/2009 17:24:00,32.94111,-97.13389
+1/8/2009 8:58:00,Product1,1200,Mastercard,Doug,United States,1/8/2009 8:22:00,40.86806,-73.42611
+1/4/2009 9:54:00,Product1,1200,Mastercard,AMY,United States,12/30/2008 20:41:00,30.15778,-95.48917
+1/13/2009 20:22:00,Product1,1200,Visa,Kim,Canada,8/2/2008 14:28:00,49.9,-119.4833333
+1/9/2009 10:22:00,Product1,1200,Mastercard,HELIDA,United States,1/5/2009 14:49:00,36.47028,-86.65139
+1/5/2009 12:28:00,Product1,1200,Visa,Cameron,Denmark,1/5/2009 12:02:00,55.8841667,12.5419444
+1/26/2009 3:43:00,Product1,1200,Mastercard,Wendy,United States,1/26/2009 3:10:00,41.37222,-73.73389
+1/26/2009 3:49:00,Product2,3600,Mastercard,Jane,France,3/1/2008 0:00:00,43.6333333,7.1
+1/11/2009 13:16:00,Product2,3600,Visa,shelby,United States,1/11/2009 12:20:00,26.12194,-80.14361
+1/22/2009 15:32:00,Product1,1200,Mastercard,Tara,Ireland,2/27/2007 11:35:00,53.2522222,-6.1125
+1/9/2009 14:25:00,Product1,1200,Amex,James,France,4/7/2008 0:00:00,47.9,-2.1166667
+1/21/2009 11:28:00,Product1,800,Amex,Heloise,United States,9/25/2005 20:26:00,38.89028,-77.08444
+1/1/2009 14:19:00,Product1,1200,Mastercard,Gabriel,Canada,5/21/2008 11:39:00,51.7,-113.2666667
+1/26/2009 4:30:00,Product1,1200,Visa,Jodie,United States,1/26/2009 0:00:00,38.99806,-77.28861
+1/7/2009 4:45:00,Product1,1200,Amex,Jeremy,United Kingdom,1/7/2009 4:30:00,51.52721,0.14559
+1/11/2009 12:12:00,Product1,1200,Visa,Helga,Ireland,11/30/2005 12:50:00,53.3591667,-6.2161111
+1/26/2009 10:24:00,Product1,1200,Visa,Eleanor,Canada,12/1/2008 18:30:00,49.25,-123.1333333
+1/26/2009 8:58:00,Product1,1200,Diners,Miss,United Kingdom,1/26/2009 8:46:00,51.52721,0.14559
+1/7/2009 17:51:00,Product1,1200,Visa,Marie,United States,1/13/2006 9:38:00,39.22,-77.42444
+1/18/2009 20:16:00,Product1,1200,Mastercard,Lisa,United States,1/18/2009 19:47:00,40.34861,-74.65944
+1/13/2009 9:51:00,Product1,1200,Mastercard,Priska,Canada,1/4/2009 23:43:00,51.0833333,-114.0833333
+1/24/2009 18:43:00,Product1,1200,Visa,Katrine,United States,1/11/2009 13:33:00,33.76444,-117.79306
+1/5/2009 0:46:00,Product1,1200,Amex,Lisa,India,1/2/2009 3:03:00,28.4666667,77.0333333
+1/9/2009 1:12:00,Product1,1200,Visa,Sabrina,France,6/18/2008 6:35:00,48.65,1.8333333
+1/26/2009 6:25:00,Product1,1200,Visa,prof,United States,1/19/2009 6:38:00,40.04056,-75.27944
+1/21/2009 16:57:00,Product1,1200,Mastercard,KeithMichelle,United States,1/21/2009 16:37:00,29.76306,-95.36306
+1/5/2009 5:33:00,Product1,1200,Mastercard,Kim,United Kingdom,12/8/2005 13:22:00,51.52721,0.14559
+1/27/2009 5:10:00,Product1,1200,Visa,anissa,United Kingdom,1/15/2009 10:07:00,51.5,-0.5833333
+1/7/2009 8:00:00,Product1,1200,Mastercard,john,Germany,5/26/2005 7:00:00,49.4666667,7.4333333
+1/20/2009 7:08:00,Product2,3600,Visa,Miye,United States,1/19/2009 8:06:00,40.00639,-75.70361
+1/27/2009 2:26:00,Product1,1200,Diners,Heidi,United States,1/27/2009 2:16:00,33.15667,-94.96806
+1/5/2009 6:14:00,Product1,1200,Mastercard,T,France,1/5/2009 4:52:00,46.2666667,6.25
+1/13/2009 8:11:00,Product2,3600,Visa,Daniele,United States,5/27/2008 11:01:00,29.78556,-95.82417
+1/10/2009 9:18:00,Product1,1200,Diners,luisa,Jersey,5/9/2006 10:43:00,49.2,-2.0333333
+1/8/2009 18:52:00,Product1,1200,Visa,Nadine,United States,1/7/2009 15:30:00,45.77611,-111.17611
+1/12/2009 10:06:00,Product1,1200,Mastercard,Tina,Canada,1/10/2009 14:15:00,51.0833333,-114.0833333
+1/1/2009 19:25:00,Product1,1200,Diners,Damali,Canada,1/8/2008 20:41:00,43.6666667,-79.4166667
+1/27/2009 15:28:00,Product1,1200,Visa,Katherine,United States,1/17/2009 17:52:00,35.23778,-106.60611
+1/2/2009 18:43:00,Product1,1200,Visa,Kathryn,Ireland,12/22/2008 15:39:00,51.8986111,-8.4958333
+1/8/2009 18:41:00,Product1,1200,Diners,Veronique,United States,12/9/2007 17:59:00,40.92528,-73.96333
+1/4/2009 18:34:00,Product1,1200,Visa,Erica,United States,1/4/2009 16:53:00,39.11556,-77.56389
+1/25/2009 8:32:00,Product1,1200,Visa,L,Canada,9/17/2007 17:41:00,50.0666667,-91.75
+1/23/2009 22:19:00,Product1,1200,Mastercard,Diana,Malaysia,1/23/2009 22:10:00,3.1666667,101.7
+1/7/2009 10:03:00,Product1,1200,Mastercard,Emma,Australia,12/1/2008 6:09:00,-33.8833333,151.2166667
+1/18/2009 3:46:00,Product1,1200,Visa,Marina,Australia,1/18/2009 0:54:00,-27.9833333,153.3333333
+1/28/2009 0:40:00,Product1,1200,Mastercard,Natalie,United States,1/27/2009 22:04:00,30.38444,-81.93889
+1/2/2009 15:18:00,Product1,1200,Diners,Brenda,United Kingdom,9/1/2004 2:08:00,52.0166667,0.25
+1/18/2009 13:59:00,Product1,1200,Diners,Nita,Ireland,12/1/2005 19:57:00,53.3905556,-6.1216667
+1/16/2009 9:54:00,Product1,1200,Mastercard,Marian,South Africa,8/3/2008 18:20:00,-29.85,31.0166667
+1/28/2009 7:07:00,Product1,1200,Visa,Kevin,United Kingdom,1/28/2009 6:57:00,52.4,-1.6333333
+1/28/2009 7:31:00,Product1,1200,Visa,cari,United States,1/28/2009 7:22:00,36.7775,-82.94167
+1/18/2009 12:32:00,Product1,1200,Visa,Cassandra,Ireland,12/14/2008 14:26:00,53.3986111,-6.2597222
+1/13/2009 14:05:00,Product1,1200,Amex,Christof and Heidi,Spain,1/9/2009 7:54:00,41.3833333,2.1833333
+1/28/2009 7:49:00,Product1,1200,Visa,Ina,United States,1/28/2009 7:45:00,35.0525,-78.87861
+1/28/2009 3:07:00,Product1,1200,Visa,Lisa,Canada,1/26/2009 11:47:00,49.2166667,-68.15
+1/12/2009 15:16:00,Product1,1200,Visa,Camille and Carmen,Iceland,1/12/2009 11:41:00,63.85,-21.3666667
+1/6/2009 11:17:00,Product2,3600,Visa,Trina,United States,2/21/2008 8:53:00,38.98222,-94.67056
+1/23/2009 9:49:00,Product1,1200,Visa,Ginger,Canada,1/23/2009 8:18:00,43.9333333,-79.5333333
+1/24/2009 4:01:00,Product1,1200,Visa,breon,United Kingdom,1/7/2006 10:56:00,51.9166667,-0.65
+1/25/2009 18:21:00,Product1,1200,Visa,Marion,Sweden,1/25/2009 16:35:00,63.8333333,20.25
+1/15/2009 10:51:00,Product1,1200,Mastercard,Pia,Norway,1/11/2009 8:54:00,58.8833333,5.6
+1/2/2009 5:14:00,Product1,1200,Visa,Dr. Donald,United Kingdom,1/1/2005 6:03:00,54.5833333,-1.4166667
+1/9/2009 10:35:00,Product2,3600,Visa,Jenna and Paul,United States,1/8/2009 14:02:00,34.6175,-89.96861
+1/4/2009 10:16:00,Product1,1200,Mastercard,Rebecca,Germany,12/28/2008 10:50:00,52.5166667,13.4
+1/2/2009 12:16:00,Product1,1200,Mastercard,Monique,United States,12/11/2008 6:16:00,38.62444,-76.93944
+1/28/2009 12:31:00,Product1,1200,Diners,lilia,United States,1/28/2009 12:21:00,40.65,-73.95
+1/14/2009 12:07:00,Product1,1200,Mastercard,Lainey,United States,1/13/2009 22:28:00,44.64972,-93.2425
+1/16/2009 7:20:00,Product2,3600,Mastercard,Jag,France,1/15/2009 4:53:00,46.2333333,6.3166667
+1/6/2009 9:55:00,Product1,1200,Mastercard,Charlene,Canada,10/7/2008 14:55:00,49.25,-123.1333333
+1/7/2009 12:55:00,Product1,1200,Amex,Fiona,United States,1/5/2009 6:26:00,41.05333,-73.53917
+1/19/2009 12:14:00,Product1,1200,Mastercard,burt,Ireland,5/10/2008 7:07:00,53.3005556,-6.2827778
+1/13/2009 15:19:00,Product2,3600,Visa,Maggie,France,6/27/2007 4:41:00,48.8666667,2.3333333
+1/18/2009 8:56:00,Product1,1200,Mastercard,Stanford,United States,1/30/2008 13:16:00,42.60722,-83.92944
+1/4/2009 17:54:00,Product1,1200,Amex,ruth,United States,1/1/2009 10:12:00,33.03694,-117.29111
+1/5/2009 13:46:00,Product1,1200,Visa,Courtney,United States,11/11/2008 14:19:00,39.56306,-95.12139
+1/5/2009 10:49:00,Product2,3600,Amex,Courtney,United States,8/23/2007 0:00:00,21.42556,-157.96083
+1/12/2009 18:24:00,Product1,1200,Diners,Anthony,United States,12/18/2008 7:14:00,42.9825,-77.40917
+1/18/2009 4:01:00,Product1,1200,Visa,Eleanor,United States,1/6/2009 0:18:00,64.83778,-147.71639
+1/16/2009 10:58:00,Product1,1200,Visa,GAIA,Denmark,7/27/2007 7:22:00,55.4333333,11.5666667
+1/13/2009 8:20:00,Product1,1200,Mastercard,Zane,United Kingdom,3/4/2005 5:51:00,51.3,-0.05
+1/12/2009 1:42:00,Product1,1200,Mastercard,Beate,Germany,1/7/2009 7:56:00,53.55,10
+1/28/2009 13:07:00,Product1,1200,Amex,BALA,United States,11/29/2007 5:56:00,38.6675,-77.02861
+1/29/2009 5:43:00,Product1,1200,Visa,Mrs,United States,1/29/2009 5:18:00,37.36889,-122.03528
+1/29/2009 5:30:00,Product1,1200,Diners,Vanessa,United States,1/29/2009 4:49:00,42.44056,-76.49694
+1/13/2009 18:08:00,Product1,1200,Amex,Amanda,United States,1/13/2009 17:02:00,29.76306,-95.36306
+1/9/2009 15:24:00,Product1,1200,Mastercard,alex,United States,1/9/2009 13:59:00,42.46444,-83.37639
+1/23/2009 15:33:00,Product1,1200,Mastercard,T,United States,1/23/2009 14:18:00,40.65,-73.95
+1/29/2009 12:28:00,Product1,1200,Mastercard,Alva and Martin,United States,5/21/2007 14:57:00,38.99806,-77.28861
+1/13/2009 11:31:00,Product1,1200,Visa,Anett,United Kingdom,1/9/2009 11:30:00,50.8,-1.1333333
+1/29/2009 10:09:00,Product2,3600,Mastercard,Jacqui,United States,1/29/2009 9:59:00,33.50917,-111.89833
+1/29/2009 15:08:00,Product1,1200,Visa,KERRY,United States,1/29/2009 14:04:00,37.36889,-122.03528
+1/4/2009 5:12:00,Product1,1200,Visa,DeeDee,South Korea,12/30/2008 8:40:00,37.5333333,127.1166667
+1/22/2009 22:16:00,Product2,3600,Mastercard,leanne,United States,1/17/2009 23:28:00,47.61056,-122.19944
+1/5/2009 19:26:00,Product1,1200,Visa,katie,Switzerland,1/5/2009 19:14:00,47.3,8.55
+1/11/2009 12:22:00,Product1,1200,Visa,Marina,United States,1/11/2009 7:18:00,44.98,-93.26361
+1/2/2009 9:31:00,Product1,1200,Visa,camilla,United States,1/2/2009 9:09:00,41.85,-87.65
+1/5/2009 11:21:00,Product1,1200,Visa,pirunkit,United Kingdom,1/5/2009 5:46:00,50.9833333,-0.6
+1/17/2009 9:49:00,Product1,1200,Diners,Kathrin,United Arab Emirates,2/27/2008 20:02:00,24.4666667,54.3666667
+1/28/2009 1:38:00,Product1,1200,Mastercard,Kate,Sweden,4/16/2007 12:58:00,59.3333333,18.05
+1/19/2009 10:32:00,Product1,1200,Mastercard,Maie,United States,1/6/2009 17:57:00,33.24861,-111.63361
+1/26/2009 12:05:00,Product1,1250,Mastercard,verena,United States,1/6/2009 17:57:00,33.24861,-111.63361
+1/7/2009 18:53:00,Product1,1200,Visa,Marie-Christine,United States,12/29/2008 9:59:00,35.99389,-78.89889
+1/26/2009 11:38:00,Product1,1200,Mastercard,Gabriella,United States,1/26/2009 7:16:00,30.26694,-97.74278
+1/8/2009 13:19:00,Product1,1200,Mastercard,valerie et nicolas,United States,1/8/2009 5:31:00,38.9875,-76.82083
+1/11/2009 14:56:00,Product1,1200,Visa,Nicole,Norway,1/5/2009 5:51:00,61.55,6.35
+1/30/2009 20:36:00,Product1,1200,Visa,Renee,United States,1/30/2009 20:05:00,26.30139,-98.16306
+1/1/2009 8:09:00,Product1,1200,Mastercard,Nicole,Australia,12/30/2008 0:55:00,-37.8333333,144.9666667
+1/17/2009 11:09:00,Product1,1200,Mastercard,Joachim,Brazil,1/17/2009 10:46:00,-3.7166667,-38.5
+1/31/2009 7:22:00,Product1,1200,Visa,Monica,United States,2/29/2008 17:34:00,41.20083,-73.38111
+1/31/2009 9:12:00,Product1,1200,Visa,Nanci,United Kingdom,8/28/2008 10:22:00,51.4333333,-1
+1/31/2009 8:56:00,Product1,1200,Mastercard,Laura,United States,1/31/2009 8:03:00,25.71222,-80.25722
+1/31/2009 9:00:00,Product1,1200,Visa,ciara and mike,United Kingdom,1/31/2009 8:32:00,51.51334,-0.08895
+1/11/2009 14:07:00,Product1,1200,Visa,Sarah,United States,1/11/2009 13:08:00,37.775,-122.41833
+1/1/2009 12:25:00,Product2,3600,Mastercard,Anne-line,Switzerland,3/29/2005 23:14:00,47.1666667,8.5166667
+1/31/2009 11:14:00,Product2,3600,Mastercard,Ulrika,United States,1/31/2009 11:10:00,33.50917,-111.89833
+1/2/2009 9:57:00,Product1,1200,Amex,leigh,United States,2/20/2005 17:20:00,39.05,-77.40111
+1/4/2009 13:20:00,Product1,1200,Mastercard,Nuria,United States,1/4/2009 12:08:00,39.97778,-105.13139
+1/22/2009 12:32:00,Product1,1200,Mastercard,Tejal,United Kingdom,1/2/2008 9:51:00,51.52721,0.14559
+1/18/2009 6:09:00,Product1,1200,Mastercard,Ignacio,United States,5/21/2007 18:56:00,38.80472,-77.04722
+1/8/2009 0:04:00,Product1,1200,Visa,ZOE,New Zealand,1/7/2009 23:34:00,-39.0666667,174.0833333
+1/24/2009 7:14:00,Product1,1200,Mastercard,nihan,United States,3/2/2008 7:35:00,37.20556,-80.03778
+1/24/2009 11:05:00,Product1,1200,Visa,alan,United States,7/30/2007 15:16:00,33.94111,-84.21361
+1/6/2009 15:12:00,Product1,1200,Amex,lydia,United States,9/23/2006 8:42:00,34.02306,-84.36167
+1/24/2009 17:06:00,Product1,1200,Visa,Tracey,Canada,1/24/2009 15:51:00,43.1666667,-79.2333333
+1/3/2009 9:58:00,Product1,1200,Visa,Anja,United States,10/19/2008 8:27:00,38.79556,-77.61417
+1/9/2009 16:35:00,Product1,1200,Diners,Jennifer,Norway,12/29/2005 9:26:00,59.8608333,10.7905556
+1/12/2009 14:50:00,Product1,1200,Visa,Holly,United States,1/12/2009 9:54:00,42.41528,-71.15694
+1/7/2009 13:49:00,Product1,1200,Diners,megan,United States,1/7/2009 12:36:00,34.20111,-118.59722
+1/9/2009 19:41:00,Product1,1200,Mastercard,Tarah,United States,1/5/2009 18:02:00,37.33944,-121.89389
+1/26/2009 4:53:00,Product1,1200,Visa,Gerardo,United Kingdom,1/26/2009 4:12:00,51.52721,0.14559
+1/23/2009 21:41:00,Product1,1200,Visa,Joanne,United States,12/26/2008 11:00:00,42.45944,-83.18278
+1/6/2009 16:07:00,Product1,1200,Visa,Margaret,United States,12/21/2008 12:21:00,29.42389,-98.49333
+1/10/2009 7:55:00,Product1,1200,Visa,Laura,United Arab Emirates,1/7/2009 9:47:00,25.2097222,55.2477778
+1/28/2009 20:44:00,Product1,1200,Visa,Whitney,United States,1/28/2009 19:36:00,38.32389,-77.46861
+1/9/2009 3:38:00,Product1,1200,Visa,Ravinder,United Kingdom,6/3/2008 4:22:00,54.4666667,-6.3333333
+1/19/2009 8:52:00,Product1,1200,Visa,Pam,United States,1/6/2009 15:24:00,29.58194,-95.76056
+1/15/2009 7:26:00,Product1,1200,Mastercard,Celina,Netherlands,1/14/2009 0:00:00,52.0833333,4.3
+1/30/2009 19:12:00,Product1,1200,Diners,Heather,United States,1/30/2009 18:54:00,35.075,-85.06222
+1/5/2009 12:41:00,Product1,1200,Mastercard,Kathryn,United States,1/5/2009 11:50:00,32.79778,-117.23944
+1/28/2009 20:59:00,Product1,1200,Visa,Michele,United States,1/28/2009 9:40:00,30.26694,-97.74278
+1/10/2009 21:36:00,Product1,1200,Visa,Craig,United States,8/10/2008 16:47:00,47.60639,-122.33083
+1/25/2009 19:59:00,Product1,1200,Visa,Kim,United States,8/13/2008 18:27:00,47.60639,-122.33083
+1/7/2009 8:03:00,Product1,1200,Amex,maria,Canada,4/17/2005 22:28:00,45.4166667,-75.7
+1/21/2009 9:07:00,Product1,1200,Visa,Elaine,United States,4/2/2008 9:59:00,38.90111,-77.26556
+1/23/2009 14:43:00,Product1,1200,Visa,Madison,New Zealand,1/18/2009 11:34:00,-36.7,174.75
+1/5/2009 13:07:00,Product1,1200,Visa,Amanda,United Kingdom,1/2/2009 14:27:00,51.6166667,0.3166667
+1/6/2009 3:39:00,Product1,1200,Visa,Krista,Norway,9/20/2005 1:58:00,60.3911111,5.3247222
+1/15/2009 15:26:00,Product1,1200,Visa,Sarah,United Kingdom,1/15/2009 8:16:00,53.5833333,-2.4333333
+1/23/2009 4:47:00,Product1,1200,Mastercard,Sarah,Ireland,1/16/2006 8:48:00,53.335,-6.2113889
+1/12/2009 10:05:00,Product2,3600,Amex,Pamela,Switzerland,9/3/2007 13:23:00,46.2,9.0166667
+1/30/2009 5:13:00,Product1,1200,Visa,Christine,Belgium,1/3/2006 13:57:00,51.2166667,4.4166667
+1/14/2009 10:32:00,Product3,7500,Mastercard,Diana,Brazil,11/5/2008 7:03:00,-22.9,-47.0833333
+1/12/2009 8:13:00,Product1,1200,Amex,mary,Sweden,3/8/2006 4:32:00,59.3,18.1666667
+1/27/2009 8:11:00,Product1,1200,Visa,Helena,United States,1/27/2009 8:05:00,37.54833,-121.9875
+1/30/2009 17:33:00,Product1,1200,Visa,nina,Australia,1/25/2009 22:36:00,-28.2333333,152.0166667
+1/15/2009 9:52:00,Product1,1200,Amex,Mark,United States,1/15/2009 8:36:00,40.345,-74.18444
+1/13/2009 11:54:00,Product1,1200,Visa,alice and rudolf,United States,1/8/2009 11:11:00,39.2725,-76.53167
+1/21/2009 11:00:00,Product1,1200,Visa,Costanza,Ireland,1/19/2009 10:11:00,53.2802778,-6.4444444
+1/16/2009 11:49:00,Product1,1200,Mastercard,Yoko,United States,2/18/2008 18:56:00,42.65833,-71.1375
+1/1/2009 9:35:00,Product1,1200,Mastercard,Barbara,United States,12/31/2008 17:51:00,34.22417,-118.23917
+1/13/2009 5:58:00,Product1,1200,Mastercard,Kit,United States,1/5/2009 21:12:00,34.05139,-84.07139
+1/6/2009 16:08:00,Product2,3600,Visa,cristina,United States,3/14/2005 16:39:00,47.60639,-122.33083
+1/5/2009 10:25:00,Product1,1200,Amex,linda,United States,10/11/2008 3:50:00,38.89028,-77.08444
+1/4/2009 21:08:00,Product1,1200,Mastercard,Christyna,Canada,1/21/2008 20:11:00,51.0833333,-114.0833333
+1/12/2009 20:43:00,Product1,1200,Visa,Alicja,United States,1/12/2009 20:31:00,47.7575,-122.24278
+1/17/2009 3:22:00,Product1,1200,Visa,Rachel,United States,2/1/2008 12:45:00,36.74778,-119.77139
+1/18/2009 11:17:00,Product1,1200,Amex,Rachel,United States,3/11/2008 13:35:00,35.48944,-120.66972
+1/27/2009 9:01:00,Product1,1200,Visa,Jan,Spain,5/29/2008 12:23:00,41.3833333,2.1833333
+1/8/2009 8:11:00,Product1,1200,Diners,Karin,United Kingdom,1/8/2009 7:00:00,51.6333333,-0.7666667
+1/26/2009 23:28:00,Product2,3600,Amex,ron,Russia,12/7/2006 8:26:00,55.6283333,37.6608333
+1/10/2009 21:35:00,Product1,1200,Mastercard,Sharon,Canada,8/7/2008 6:17:00,43.85,-79.0166667
+1/11/2009 6:01:00,Product1,1200,Mastercard,Anna,United States,1/1/2009 10:24:00,40.71417,-74.00639
+1/19/2009 14:53:00,Product1,1200,Mastercard,Laura,United States,12/12/2008 5:18:00,41.00861,-91.9625
+1/22/2009 7:14:00,Product1,1200,Visa,Yana,Canada,10/11/2006 19:22:00,46.3,-79.45
+1/15/2009 8:12:00,Product1,1200,Visa,Katherine,United States,1/13/2009 10:03:00,33.9525,-84.55
+1/7/2009 6:33:00,Product1,1200,Diners,Therese,Ireland,6/15/2008 8:08:00,53.3591667,-6.2161111
+1/12/2009 8:05:00,Product1,1200,Amex,Francoise,United States,1/12/2009 6:44:00,40.96333,-76.61306
+1/28/2009 13:03:00,Product2,3600,Amex,Elizabeth,Canada,9/10/2008 6:53:00,50.7166667,-113.9666667
+1/25/2009 8:54:00,Product1,1200,Amex,Corinne,United States,3/26/2006 17:32:00,33.86722,-112.14611
+1/5/2009 10:08:00,Product1,1200,Visa,Ec,Ireland,1/5/2009 7:47:00,52.355,-7.7038889
+1/5/2009 19:29:00,Product1,1200,Visa,Carmen,United States,4/29/2008 16:09:00,38.89028,-77.08444
+1/7/2009 19:06:00,Product2,3600,Amex,Brittany,United States,8/10/2004 3:30:00,28.53806,-81.37944
+1/23/2009 11:33:00,Product1,1200,Mastercard,Sandrine,United States,1/22/2009 23:31:00,37.90639,-122.06389
+1/3/2009 21:11:00,Product1,1200,Mastercard,asuncion,United States,12/3/2008 13:00:00,39.57917,-104.87639
+1/11/2009 17:28:00,Product1,1200,Visa,Sophie,United States,1/11/2009 11:50:00,41.41389,-73.30389
+1/21/2009 20:18:00,Product1,1200,Amex,Henrietta,Canada,7/6/2007 23:53:00,49.25,-123.1333333
+1/24/2009 10:23:00,Product1,1200,Visa,DD,United Kingdom,8/19/2008 12:58:00,53.9666667,-1.0833333
+1/7/2009 14:55:00,Product1,1200,Visa,Jennifer,Ireland,9/21/2006 2:39:00,53.7188889,-6.3477778
+1/29/2009 10:38:00,Product1,1200,Visa,samuel,United States,1/29/2009 9:08:00,40.89889,-74.09306
+1/8/2009 14:04:00,Product1,1200,Amex,Angelina  Patrick,United States,1/7/2009 17:01:00,32.71528,-117.15639
+1/31/2009 21:50:00,Product1,1200,Visa,Sven,United States,1/31/2009 21:01:00,47.53028,-122.03139
+1/1/2009 16:00:00,Product1,1200,Visa,Toni,United Kingdom,10/7/2008 15:19:00,53.5833333,-2.4333333
+1/30/2009 13:13:00,Product1,1200,Visa,Patrick,United States,1/30/2009 12:44:00,42.44722,-71.225
+1/27/2009 16:50:00,Product1,1200,Visa,jason,United States,12/28/2008 14:42:00,34.18972,-118.13028
+1/30/2009 7:42:00,Product1,250,Visa,Tabatha,United States,12/28/2008 14:42:00,34.18972,-118.13028
+1/17/2009 15:48:00,Product2,3600,Visa,Aline,United States,1/8/2005 14:03:00,38.545,-121.73944
+1/12/2009 11:40:00,Product2,3600,Visa,Debra,Canada,12/30/2008 6:59:00,43.6666667,-79.4166667
+1/30/2009 20:27:00,Product1,1200,Mastercard,Natasha,United States,1/30/2009 20:02:00,34.14778,-118.14361
+1/27/2009 18:35:00,Product1,1200,Mastercard,Melinda,United States,1/27/2009 18:28:00,41.98111,-89.595
+1/16/2009 12:47:00,Product1,1200,Visa,Luc1nda,United Kingdom,12/12/2004 15:18:00,51.52721,0.14559
+1/2/2009 2:50:00,Product1,1200,Visa,Kim,Ireland,10/12/2005 6:56:00,53.0683333,-6.0658333
+1/21/2009 5:39:00,Product1,1200,Amex,Britlyn,United States,11/4/2008 9:51:00,41.1175,-73.40833
+1/28/2009 1:28:00,Product1,1200,Diners,Adam,France,1/26/2009 2:28:00,47.25,6.0333333
+1/8/2009 13:33:00,Product1,1200,Visa,Mimi,Monaco,9/23/2006 13:19:00,43.7333333,7.4166667
+1/22/2009 12:09:00,Product1,1200,Visa,Liann,Monaco,1/22/2009 11:32:00,43.7333333,7.4166667
+1/20/2009 8:23:00,Product1,1200,Mastercard,Sarah,United States,10/12/2005 17:17:00,38.32444,-85.87361
+1/2/2009 7:47:00,Product1,1200,Diners,Naseer,United Kingdom,12/8/2008 6:45:00,51.5,-0.1166667
+1/11/2009 4:55:00,Product1,1200,Amex,Caroline,United States,4/12/2006 18:20:00,33.9525,-84.55
+1/23/2009 7:47:00,Product1,1800,Amex,Karena,United States,4/12/2006 18:20:00,33.9525,-84.55
+1/21/2009 23:19:00,Product1,1200,Amex,janet,United States,9/4/2008 16:51:00,21.30694,-157.85833
+1/11/2009 4:29:00,Product3,7500,Visa,Hans,United States,8/28/2008 6:20:00,35.96056,-83.92083
+1/11/2009 4:39:00,Product1,1200,Visa,Sandra  Thierry  Zoe,United States,8/28/2008 6:20:00,35.96056,-83.92083
+1/10/2009 8:13:00,Product1,1200,Mastercard,Eleanor,United Kingdom,7/31/2008 22:34:00,55.95,-3.2
+1/22/2009 12:55:00,Product1,1200,Visa,Anna,France,8/17/2007 4:34:00,48.8666667,2.3333333
+1/17/2009 15:00:00,Product1,1200,Visa,Cara,United States,3/12/2007 14:55:00,29.99861,-95.26194
+1/4/2009 14:06:00,Product1,1200,Visa,carolien,United States,1/4/2009 12:21:00,41.64833,-70.48167
+1/30/2009 17:09:00,Product1,1200,Mastercard,Ana,Hong Kong,7/28/2006 2:31:00,22.2833333,114.15
+1/20/2009 5:01:00,Product1,1200,Visa,Patrick,United States,1/18/2009 17:36:00,42.54667,-83.21139
+1/26/2009 14:37:00,Product1,1200,Visa,Heidi,United States,12/19/2007 12:00:00,29.89444,-81.31472
+1/29/2009 13:27:00,Product1,1200,Visa,Tom,United States,1/28/2009 14:47:00,40.76083,-111.89028
+1/12/2009 10:33:00,Product1,1200,Amex,Justine,United States,1/7/2009 16:45:00,47.60639,-122.33083
+1/5/2009 8:28:00,Product1,1200,Visa,isabel,Switzerland,1/5/2009 5:08:00,47.25,8.85
+1/25/2009 16:11:00,Product3,7500,Visa,scott,United States,1/25/2009 15:55:00,36.33194,-94.11833
+1/25/2009 20:44:00,Product1,1200,Visa,Fatima,United States,1/25/2009 15:55:00,36.33194,-94.11833
+1/26/2009 11:36:00,Product1,1200,Visa,Judy,Ireland,1/26/2009 7:28:00,53.2925,-6.1286111
+1/27/2009 2:32:00,Product1,1200,Visa,Glenn,United Kingdom,6/27/2006 9:12:00,56.4,-3.4333333
+1/18/2009 13:36:00,Product1,1200,Amex,Family in,United Kingdom,4/23/2005 9:46:00,51.51334,-0.08895
+1/7/2009 5:53:00,Product1,1200,Visa,Lauren,Germany,1/7/2009 2:49:00,49.4166667,7.4
+1/25/2009 1:53:00,Product3,7500,Visa,Michael,South Africa,1/24/2009 12:52:00,-29.6166667,30.3833333
+1/18/2009 11:42:00,Product1,1200,Visa,Jodi,United Kingdom,11/17/2008 10:30:00,51.2,0.5833333
+1/13/2009 1:46:00,Product1,1200,Mastercard,simone,Denmark,10/30/2007 12:03:00,55.7666667,12.5166667
+1/2/2009 15:57:00,Product1,1200,Diners,Sonja,United States,1/2/2009 15:25:00,40.95583,-73.93167
+1/25/2009 8:50:00,Product1,1200,Mastercard,Shane,Switzerland,1/24/2009 12:23:00,47.3666667,8.55
+1/14/2009 8:16:00,Product2,3600,Amex,Ruth,Canada,8/9/2008 12:51:00,52.1333333,-106.6666667
+1/27/2009 11:21:00,Product1,1200,Mastercard,Cleo,United States,1/27/2009 10:38:00,34.04806,-118.52556
+1/8/2009 10:13:00,Product1,1200,Diners,Benoit,Canada,1/7/2009 16:01:00,54.4333333,-124.25
+1/5/2009 7:47:00,Product1,1200,Amex,Claire,Switzerland,4/18/2007 12:55:00,46.2833333,6.1666667
+1/22/2009 9:00:00,Product1,1200,Visa,Claire,United States,7/6/2008 14:33:00,42.54222,-76.66639
+1/25/2009 12:59:00,Product1,1200,Visa,Lindsey,United States,1/13/2009 20:08:00,39.84667,-75.71194
+1/10/2009 19:28:00,Product2,3600,Visa,Nicola,United States,8/5/2005 0:29:00,37.33944,-121.89389
+1/8/2009 19:29:00,Product2,3600,Mastercard,PATRICK,Thailand,1/8/2009 0:01:00,13.9166667,100.8166667
+1/8/2009 12:04:00,Product1,1200,Visa,jennifer,United States,12/1/2003 19:13:00,35.36583,-120.84889
+1/4/2009 16:59:00,Product1,1200,Visa,Amy,Australia,1/3/2009 22:35:00,-33.8166667,151
+1/30/2009 11:56:00,Product1,1200,Mastercard,Whitney,United Kingdom,7/31/2008 13:46:00,52.0166667,-1.9666667
+1/6/2009 5:10:00,Product1,1200,Visa,Astrid,Austria,6/24/2008 0:49:00,48.15,15.9166667
+1/14/2009 3:39:00,Product1,1200,Visa,jo,Ireland,12/10/2008 7:41:00,51.8833333,-8.5833333
+1/14/2009 3:47:00,Product1,1200,Visa,Michelle,Ireland,12/10/2008 7:41:00,51.8833333,-8.5833333
+1/19/2009 3:19:00,Product1,1200,Mastercard,TG,Bulgaria,11/20/2008 3:00:00,42.35,25.6666667
+1/7/2009 1:42:00,Product1,1200,Mastercard,Emily,Latvia,1/4/2009 10:33:00,57.0333333,24.1
+1/7/2009 13:01:00,Product2,3600,Visa,Niki,Switzerland,8/5/2007 0:43:00,46.4166667,6.2
+1/27/2009 2:35:00,Product1,1200,Visa,Sarah,France,8/28/2008 6:28:00,46.2833333,6.1
+1/3/2009 14:14:00,Product1,1200,Visa,sherry,United States,1/3/2009 13:49:00,36.175,-115.13639
+1/22/2009 12:37:00,Product2,3600,Amex,Laura,United States,1/22/2009 10:17:00,37.97472,-122.56056
+1/29/2009 6:49:00,Product1,1200,Mastercard,Carmela,Germany,4/2/2008 2:39:00,52.3666667,9.7166667
+1/6/2009 9:45:00,Product1,1200,Diners,Matt,United States,12/30/2008 13:01:00,40.66417,-73.70889
+1/12/2009 11:16:00,Product1,1200,Visa,Karen,Spain,7/17/2007 6:08:00,40.4,-3.6833333
+1/13/2009 13:49:00,Product1,1200,Visa,Joanne,Ireland,1/6/2008 14:03:00,53.85,-9.3
+1/12/2009 7:23:00,Product1,1200,Visa,Stephanie,United States,1/11/2009 14:42:00,37.98722,-122.58778
+1/30/2009 4:48:00,Product1,1200,Visa,Hurst,United States,6/18/2008 14:29:00,33.30611,-111.84056
+1/22/2009 16:29:00,Product1,1200,Visa,Liza,United States,1/17/2009 15:18:00,37.1306,-113.6492
+1/27/2009 6:26:00,Product1,1200,Mastercard,Michele,United States,1/25/2009 11:56:00,42.88639,-78.87861
+1/15/2009 10:16:00,Product3,7500,Visa,Karin,United States,1/12/2009 17:41:00,34.96167,-89.82944
+1/19/2009 18:54:00,Product1,1200,Amex,cath,United States,1/19/2009 11:34:00,41.25639,-74.36028
+1/2/2009 22:44:00,Product2,3600,Visa,eva,Australia,12/3/2006 15:36:00,-37.4833333,144.5833333
+1/1/2009 18:32:00,Product1,1200,Amex,Andrea,United States,12/31/2008 17:09:00,37.56306,-122.32444
+1/14/2009 1:28:00,Product1,1200,Mastercard,Sabine,United Kingdom,6/24/2006 15:10:00,52.0333333,-0.7
+1/20/2009 8:08:00,Product1,1200,Mastercard,Aideen and Jonathan,Hungary,1/19/2009 5:49:00,46.9,19.7833333
+1/29/2009 2:48:00,Product1,1200,Visa,George,Denmark,1/29/2009 2:19:00,54.8333333,11.15
+1/24/2009 18:02:00,Product1,1200,Visa,Helen,United States,11/29/2005 17:33:00,28.60056,-81.30667
+1/7/2009 8:26:00,Product1,1200,Diners,C,United States,1/6/2009 16:23:00,33.30611,-111.84056
+1/24/2009 3:36:00,Product1,1200,Visa,chris,Denmark,1/20/2009 13:11:00,55.6666667,12.5833333
+1/5/2009 15:23:00,Product1,1200,Visa,maggie,United Kingdom,6/12/2008 10:59:00,52.25,-2.7
+1/25/2009 16:17:00,Product1,1200,Amex,Mareike,United States,1/24/2009 18:06:00,34.20722,-84.14028
+1/15/2009 10:37:00,Product1,1200,Visa,lamia,United States,6/28/2008 11:04:00,41.51,-71.17167
+1/20/2009 15:28:00,Product1,1200,Visa,Madhu,United States,12/2/2006 23:24:00,39.57917,-104.87639
+1/28/2009 18:00:00,Product1,"13,000",Visa,sandhya,United States,12/2/2006 23:24:00,39.57917,-104.87639
+1/29/2009 5:06:00,Product1,1200,Amex,Kimberly,United States,1/23/2008 10:05:00,38.96944,-77.38639
+1/6/2009 18:53:00,Product1,1200,Visa,Tania,United States,1/5/2009 22:37:00,33.2,-117.24167
+1/21/2009 6:55:00,Product1,1200,Visa,andrea,United States,1/20/2009 13:33:00,43.62278,-87.79444
+1/26/2009 20:18:00,Product1,1200,Mastercard,John,Australia,1/15/2007 20:37:00,-34.2833333,146.0333333
+1/25/2009 17:58:00,Product2,3600,Visa,carol,United States,7/5/2008 9:20:00,42.27083,-83.72639
+1/9/2009 14:37:00,Product1,1200,Visa,Nona,United States,1/8/2009 15:14:00,40.56222,-111.92889
+1/25/2009 2:46:00,Product2,3600,Visa,Family,United Arab Emirates,1/8/2009 1:19:00,25.2522222,55.28
+1/17/2009 20:46:00,Product2,3600,Visa,Michelle,United Arab Emirates,4/13/2008 2:36:00,25.2522222,55.28
+1/24/2009 7:18:00,Product2,3600,Visa,Kathryn,United Kingdom,1/23/2009 10:31:00,56.6666667,-3
+1/11/2009 7:09:00,Product1,1200,Visa,Oswald,Ireland,10/13/2008 16:43:00,52.1588889,-7.1463889
+1/8/2009 4:15:00,Product1,1200,Visa,Elyssa,Poland,1/7/2009 15:00:00,54.35,18.6666667
+1/22/2009 10:47:00,Product1,1200,Visa,michelle,Ireland,11/18/2008 1:32:00,52.7930556,-6.1413889
+1/26/2009 20:47:00,Product1,1200,Mastercard,Alicia,United States,6/24/2008 8:05:00,40.8,-96.66667
+1/12/2009 12:22:00,Product1,1200,Mastercard,JP,Sweden,1/6/2009 11:34:00,60.3333333,17.5
+1/26/2009 1:44:00,Product2,3600,Visa,Geraldine,Belgium,1/31/2008 13:28:00,50.8333333,4.3333333
+1/18/2009 12:57:00,Product1,1200,Mastercard,sandra,United States,1/24/2008 16:11:00,43.45889,-91.86528
+1/24/2009 21:26:00,Product1,1200,Visa,Olivia,United States,5/8/2008 16:02:00,41.86611,-88.10694
+1/26/2009 12:26:00,Product2,3600,Mastercard,Tom,United States,1/26/2009 5:23:00,31.11694,-97.7275
+1/5/2009 7:37:00,Product1,1200,Visa,Annette,United States,9/26/2008 4:29:00,40.71417,-74.00639
+1/14/2009 12:33:00,Product1,1200,Visa,SUSAN,United Kingdom,9/11/2008 23:23:00,51.75,-1.25
+1/14/2009 0:15:00,Product2,3600,Visa,Michael,France,11/28/2008 0:07:00,48.8666667,2.3333333
+1/1/2009 12:42:00,Product1,1200,Visa,ashton,United Kingdom,12/15/2008 1:16:00,50.7,-3.5333333
+1/6/2009 6:07:00,Product1,1200,Visa,Scott,Denmark,12/27/2008 14:29:00,55.8841667,12.5419444
+1/15/2009 5:11:00,Product2,3600,Visa,Pam,United Kingdom,7/11/2006 12:43:00,51.52721,0.14559
+1/17/2009 4:03:00,Product1,1200,Visa,Lisa,Philippines,1/17/2009 2:45:00,9.9136111,124.0927778
+1/19/2009 10:13:00,Product2,3600,Mastercard,Pavel,United Kingdom,2/28/2006 5:35:00,51.51334,-0.08895
+1/18/2009 9:42:00,Product1,1200,Visa,Richard,United States,1/18/2009 9:22:00,41.49694,-71.36778
+1/9/2009 11:14:00,Product1,1200,Visa,Jasinta Jeanne,United States,1/9/2009 10:43:00,39.41944,-76.78056
+1/10/2009 13:42:00,Product1,1200,Visa,Rachel,Canada,1/10/2009 12:22:00,43.25,-79.8333333
+1/7/2009 7:28:00,Product1,1200,Amex,Cherish,United States,7/28/2008 7:31:00,61.21806,-149.90028
+1/18/2009 6:46:00,Product1,1200,Visa,Shona,Ireland,1/15/2009 9:13:00,53.7233333,-6.2825
+1/30/2009 12:18:00,Product1,1200,Mastercard,Abikay,United States,1/26/2009 13:34:00,33.87028,-117.92444
+1/6/2009 5:42:00,Product1,1200,Amex,Abikay,United States,10/27/2008 14:16:00,33.74889,-84.38806
+1/2/2009 10:58:00,Product2,3600,Visa,Kendra,Canada,1/2/2009 10:38:00,43.6666667,-79.4166667
+1/8/2009 3:29:00,Product1,1200,Visa,amanda,United Kingdom,12/22/2008 1:41:00,53.4166667,-3
+1/12/2009 13:23:00,Product2,3600,Amex,Leila,Italy,9/13/2005 8:42:00,45.3666667,11.6166667
+1/19/2009 9:34:00,Product1,1200,Amex,amanda,United States,5/10/2008 8:56:00,36.175,-115.13639
+1/9/2009 7:49:00,Product1,1200,Visa,Stacy,United States,7/28/2008 7:18:00,42.68056,-83.13389
+1/15/2009 5:27:00,Product2,3600,Visa,Derrick,Canada,1/6/2009 17:42:00,46.3,-79.45
+1/8/2009 23:40:00,Product1,1200,Visa,Jacob,Australia,1/8/2009 17:52:00,-33.7833333,151.1666667
+1/27/2009 11:02:00,Product1,1200,Mastercard,DOREEN,Spain,1/24/2009 8:21:00,40.4,-3.6833333
+1/14/2009 13:23:00,Product1,1200,Diners,eugenia,United States,11/15/2008 13:57:00,44.38361,-89.81722
+1/7/2009 20:01:00,Product1,1200,Visa,Karen,United States,1/6/2009 19:16:00,30.26694,-97.74278
+1/20/2009 12:32:00,Product1,1200,Visa,Bea,United States,1/16/2009 19:08:00,41.85,-87.65
+1/6/2009 14:35:00,Product1,1200,Diners,Hilde Karin,United States,12/17/2008 11:59:00,36.175,-115.13639
+1/4/2009 6:51:00,Product1,1200,Visa,Rima,Ireland,1/3/2009 12:34:00,53.5333333,-7.35
+1/24/2009 18:30:00,Product1,1200,Visa,Ruangrote,Australia,7/17/2008 5:19:00,-37.8166667,144.9666667
+1/25/2009 5:57:00,Product1,1200,Amex,pamela,Argentina,1/24/2009 9:29:00,-37.15,-58.4833333
+1/5/2009 10:02:00,Product2,3600,Visa,Emillie,United States,1/5/2009 9:03:00,44.80417,-93.16667
+1/13/2009 9:14:00,Product1,1200,Visa,sangeeta,Norway,1/9/2009 9:31:00,60.6333333,6.4333333
+1/22/2009 7:35:00,Product1,1200,Visa,Anja,France,1/22/2009 6:51:00,46.25,6.1166667
+1/2/2009 11:06:00,Product1,1200,Mastercard,Andrew,Spain,3/12/2006 15:02:00,37.3772222,-5.9869444
+1/11/2009 9:50:00,Product1,1200,Visa,Bato,Germany,1/7/2009 11:45:00,51.05,11.65
+1/21/2009 20:44:00,Product1,1200,Mastercard,Ailsa,United States,1/21/2009 7:47:00,40.68667,-73.37389
+1/5/2009 9:09:00,Product1,1200,Visa,Sophie,United States,10/23/2006 6:52:00,42.53778,-83.23306
+1/5/2009 12:41:00,Product1,1200,Visa,Katrin,Canada,12/3/2008 14:49:00,51.0833333,-114.0833333
+1/28/2009 12:54:00,Product2,3600,Mastercard,Kelly,Canada,1/27/2009 21:04:00,49.25,-123.1333333
+1/21/2009 4:46:00,Product1,1200,Visa,Tomasz,Denmark,6/10/2008 11:25:00,55.7666667,12.6
+1/7/2009 13:28:00,Product1,1200,Visa,Elizabeth,United Kingdom,1/4/2009 13:07:00,51.4333333,-2
+1/27/2009 11:18:00,Product2,3600,Amex,Michael,United States,1/23/2009 11:47:00,34.05222,-118.24278
+1/7/2009 12:39:00,Product2,3600,Visa,Natasha,Italy,6/2/2006 13:01:00,45.4666667,9.2
+1/24/2009 13:54:00,Product2,3600,Mastercard,Meredith,Switzerland,1/24/2009 12:30:00,47.45,8.5833333
+1/30/2009 6:48:00,Product1,1200,Mastercard,Nicole,United States,1/30/2009 4:51:00,35.0525,-78.87861
+1/22/2009 18:07:00,Product1,1200,Visa,Ryan,United States,1/6/2009 16:59:00,34.73694,-82.25444
+1/29/2009 15:03:00,Product1,1200,Visa,Mary,New Zealand,2/9/2006 11:14:00,-36.8666667,174.7666667
+1/2/2009 14:14:00,Product1,1200,Diners,Aaron,United Kingdom,11/16/2008 15:49:00,51.4333333,-1
+1/19/2009 11:05:00,Product1,1200,Visa,Bertrand,United States,10/3/2008 5:55:00,40.83972,-74.27694
+1/28/2009 16:17:00,Product1,1200,Mastercard,Zoe,United Kingdom,1/28/2009 15:59:00,52.4166667,-1.55
+1/8/2009 12:46:00,Product1,1200,Mastercard,Trine Marie,Canada,12/16/2008 22:57:00,44.6,-79.4166667
+1/29/2009 16:07:00,Product1,1200,Diners,Kim,France,1/29/2009 15:45:00,48.8666667,2.3333333
+1/29/2009 13:41:00,Product1,1200,Visa,John,United States,1/14/2004 21:59:00,37.33944,-121.89389
+1/8/2009 6:29:00,Product1,1200,Visa,Rich,Germany,3/24/2006 6:21:00,49.9833333,8.0666667
+1/4/2009 12:53:00,Product1,1200,Diners,Kayla,United Kingdom,12/11/2008 7:35:00,52.3,-1.5333333
+1/14/2009 12:55:00,Product1,1200,Visa,Richard and Comfort,Switzerland,1/11/2009 10:36:00,47.4333333,8.4666667
+1/14/2009 6:35:00,Product1,1200,Visa,Eric,Australia,7/25/2008 7:02:00,-37.8166667,144.9666667
+1/27/2009 13:08:00,Product1,1200,Mastercard,Melissa,Switzerland,5/9/2008 8:50:00,46.2,6.1666667
+1/31/2009 23:09:00,Product1,1200,Diners,Dawn,Australia,9/13/2004 22:55:00,-33.8666667,151.2833333
+1/21/2009 14:34:00,Product1,1200,Mastercard,Tamara,Austria,1/21/2009 14:12:00,48.3,16.3166667
+1/16/2009 8:28:00,Product1,1200,Visa,Ashley,United States,1/9/2009 12:13:00,38.58917,-121.30167
+1/11/2009 9:55:00,Product1,1200,Visa,familly,Canada,1/10/2009 7:14:00,44.3166667,-80.1
+1/8/2009 2:46:00,Product1,1200,Mastercard,Ken,United Kingdom,11/26/2007 16:44:00,51.4166667,0.1166667
+1/26/2009 7:11:00,Product1,1200,Visa,Tori,United States,11/22/2008 21:06:00,44.98,-93.26361
+1/31/2009 5:39:00,Product2,3600,Mastercard,Hanne,United States,10/5/2004 4:37:00,39.51639,-76.61639
+1/9/2009 8:35:00,Product1,1200,Amex,Precious,Canada,1/8/2009 14:14:00,53.55,-113.5
+1/24/2009 3:25:00,Product1,1200,Visa,Michelle,Australia,9/26/2008 19:23:00,-34.6166667,138.8833333
+1/26/2009 8:45:00,Product1,1200,Visa,Paula,United States,2/15/2006 17:21:00,40.92778,-73.75222
+1/23/2009 10:45:00,Product1,1200,Visa,Stephanie,United States,1/23/2009 8:46:00,41.91417,-88.30861
+1/28/2009 8:50:00,Product1,1200,Visa,kemp,United States,1/28/2009 8:42:00,36.03306,-86.78278
+1/15/2009 19:10:00,Product2,3600,Diners,Therese,United States,12/29/2005 21:33:00,30.42111,-87.21694
+1/9/2009 20:25:00,Product1,1200,Diners,Mona,Canada,1/9/2009 14:20:00,49.9,-119.4833333
+1/15/2009 21:53:00,Product1,1200,Visa,Caroline,Canada,1/1/2009 18:01:00,43.6666667,-79.4166667
+1/12/2009 0:17:00,Product1,1200,Mastercard,Andrea,Denmark,1/7/2009 23:40:00,55.6166667,12.35
+1/25/2009 10:32:00,Product1,1200,Mastercard,Pilar,Italy,1/23/2009 4:46:00,43.7666667,11.25
+1/12/2009 23:35:00,Product1,1200,Visa,Lisa,Australia,5/8/2006 23:41:00,-31.9333333,115.8333333
+1/11/2009 6:09:00,Product1,1200,Amex,A,United States,11/8/2008 4:07:00,27.77056,-82.67944
+1/3/2009 13:35:00,Product1,1200,Mastercard,Yvette,Switzerland,8/15/2008 4:02:00,46.4833333,6.4
+1/18/2009 11:03:00,Product2,3600,Amex,Katie,Spain,1/18/2009 6:16:00,41.3,2.0166667
+1/5/2009 18:55:00,Product1,1200,Visa,Nicole,United States,4/3/2008 16:57:00,38.94222,-77.1825
+1/2/2009 18:54:00,Product1,1200,Mastercard,Kelly,United States,12/7/2008 4:51:00,36.30472,-86.62
+1/13/2009 14:44:00,Product2,3600,Visa,george,Switzerland,12/14/2008 10:19:00,47.3666667,8.55
+1/4/2009 4:05:00,Product1,1200,Mastercard,Samantha,United Kingdom,12/31/2008 8:33:00,51.6666667,-0.4
+1/27/2009 12:47:00,Product1,1200,Visa,Caterina,Netherlands,1/27/2009 12:03:00,52.35,4.9166667
+1/22/2009 6:51:00,Product1,1200,Visa,Kate,United States,1/22/2009 5:54:00,42.68056,-83.13389
+1/1/2009 21:40:00,Product1,1200,Mastercard,Tina,Australia,10/20/2008 18:27:00,-38.4166667,144.1666667
+1/27/2009 18:06:00,Product1,1200,Visa,Emily,The Bahamas,1/13/2009 18:22:00,25.05,-77.4166667
+1/10/2009 14:59:00,Product1,1200,Amex,Maricel,United States,1/10/2009 14:47:00,34.005,-118.80917
+1/26/2009 15:42:00,Product1,1200,Visa,Patricia,United States,1/26/2009 14:38:00,33.10306,-96.67028
+1/12/2009 14:37:00,Product1,1200,Mastercard,steve,France,1/12/2009 7:47:00,46.0333333,6.2333333
+1/16/2009 7:58:00,Product1,1200,Amex,Darrah,Netherlands,9/30/2007 4:03:00,52.0833333,4.3
+1/22/2009 14:32:00,Product1,1200,Visa,Sara,Australia,9/5/2008 7:18:00,-31.9333333,115.8333333
+1/19/2009 6:50:00,Product1,1200,Visa,Erika,United Kingdom,1/6/2009 13:29:00,50.2333333,-5.2333333
+1/24/2009 11:54:00,Product1,1200,Visa,Audrey,Belgium,1/24/2009 10:47:00,50.8333333,4.3333333
+1/13/2009 13:36:00,Product1,1200,Visa,Louise,United Kingdom,5/16/2006 9:10:00,51.52721,0.14559
+1/13/2009 11:56:00,Product1,1200,Diners,Karen,Canada,10/31/2008 12:37:00,45.5,-73.5833333
+1/19/2009 7:49:00,Product1,1200,Amex,Maki,United States,1/18/2009 15:26:00,25.79028,-80.13028
+1/10/2009 7:37:00,Product1,1200,Visa,Peter,Ireland,10/11/2008 3:19:00,53.2261111,-6.1244444
+1/20/2009 5:53:00,Product1,1200,Diners,Ashlee,United Kingdom,1/14/2009 4:35:00,51.75,-1.25
+1/6/2009 10:34:00,Product1,1200,Mastercard,Anja,United States,1/6/2009 10:03:00,40.71417,-74.00639
+1/23/2009 5:14:00,Product1,1200,Visa,Ellen Walton,Australia,12/16/2007 17:05:00,-37.8166667,144.9666667
+1/14/2009 16:02:00,Product1,1200,Mastercard,Jessica,United States,1/14/2009 14:53:00,34.16833,-118.605
+1/14/2009 18:05:00,Product1,1200,Visa,Wouter and Andrea,United States,1/10/2009 3:19:00,61.21806,-149.90028
+1/8/2009 20:52:00,Product1,1200,Visa,Pam and Rob,United States,11/18/2008 20:03:00,33.88861,-117.81222
+1/7/2009 13:57:00,Product1,1200,Visa,Elsa,New Zealand,1/7/2009 13:32:00,-36.55,174.7166667
+1/25/2009 10:34:00,Product1,1200,Amex,kathleen kane,United States,1/19/2009 19:01:00,42.30972,-71.12083
+1/28/2009 4:35:00,Product1,1200,Diners,Selene,Norway,4/5/2005 5:30:00,59.9166667,10.75
+1/19/2009 3:25:00,Product1,1200,Visa,Christy,Japan,1/10/2006 4:49:00,35.6333333,139.65
+1/18/2009 0:41:00,Product2,3600,Visa,Hanna Agla,Germany,9/21/2006 23:27:00,48.7,10.8
+1/27/2009 2:38:00,Product1,1200,Visa,Elyse,Ireland,11/30/2007 9:25:00,51.7469444,-8.7425
+1/16/2009 6:04:00,Product1,1200,Mastercard,Alexis,Germany,1/15/2009 2:56:00,48.2833333,9.7333333
+1/5/2009 5:30:00,Product1,1200,Visa,M George,France,1/5/2009 4:11:00,48.8666667,2.3333333
+1/9/2009 14:55:00,Product1,1200,Visa,John,United Kingdom,1/8/2009 16:23:00,52.05,-1.3333333
+1/29/2009 10:07:00,Product1,1200,Visa,cheryl,United States,1/27/2009 8:42:00,34.07361,-118.39944
+1/27/2009 3:55:00,Product1,1200,Amex,R,Sweden,9/13/2006 10:09:00,59.4166667,18.0166667
+1/25/2009 12:35:00,Product2,3600,Visa,Charlene,United States,1/25/2009 10:42:00,38.40222,-122.82278
+1/3/2009 16:56:00,Product1,1200,Visa,Cindy,United States,3/13/2004 14:09:00,34.13611,-117.86444
+1/12/2009 12:04:00,Product1,1200,Visa,Ed,Sweden,12/5/2007 12:48:00,59.3,18.1666667
+1/27/2009 3:19:00,Product1,1200,Mastercard,Astrid,United Kingdom,1/27/2009 1:01:00,51.2666667,1.0833333
+1/24/2009 9:30:00,Product1,1200,Visa,Nicole,Switzerland,1/24/2009 5:24:00,47,6.9666667
+1/25/2009 18:33:00,Product1,1200,Visa,Maria Macarena,United States,1/23/2009 9:35:00,45.78333,-108.5
+1/15/2009 11:43:00,Product1,1200,Visa,Maggie,United States,10/24/2008 19:02:00,42.28306,-87.95306
+1/23/2009 16:30:00,Product2,3600,Amex,Christophe,United States,1/9/2009 15:59:00,33.49361,-117.1475
+1/5/2009 12:57:00,Product1,1200,Diners,Manoj,United States,1/5/2009 9:32:00,43.61361,-116.2025
+1/29/2009 16:52:00,Product1,1200,Visa,Brenda,United States,1/25/2009 12:00:00,34.92472,-81.02528
+1/10/2009 0:04:00,Product1,1200,Mastercard,Lizelle,United States,1/9/2009 23:37:00,21.42556,-157.96083
+1/3/2009 14:17:00,Product2,3600,Visa,Kees en Valesca,Australia,1/3/2009 13:53:00,-41.465,148.2572222
+1/15/2009 9:00:00,Product1,1200,Visa,Cormac,The Bahamas,1/15/2009 8:10:00,26.5333333,-78.7
+1/24/2009 20:58:00,Product1,1200,Visa,jacqueline,Canada,12/28/2008 15:54:00,49.3166667,-123.0666667
+1/10/2009 11:53:00,Product1,1200,Visa,Martin,Germany,1/17/2008 8:20:00,48.9,9.1833333
+1/4/2009 17:34:00,Product1,1200,Mastercard,Dean,Australia,10/20/2007 19:09:00,-32.2833333,115.7166667
+1/28/2009 0:22:00,Product1,1200,Visa,VERBENA,Switzerland,9/27/2008 0:24:00,47.5666667,7.6
+1/17/2009 1:49:00,Product1,1200,Mastercard,Angel Marie,Netherlands,1/13/2009 5:09:00,52.0833333,4.3
+1/25/2009 17:48:00,Product1,1200,Visa,olla,United States,1/24/2009 23:48:00,39.83667,-105.03667
+1/22/2009 5:39:00,Product2,3600,Visa,Eman,United Kingdom,1/14/2009 13:33:00,51.6333333,-4.1
+1/19/2009 15:40:00,Product2,3600,Visa,Julia,Netherlands,1/19/2009 14:32:00,52.0333333,5.6666667
+1/21/2009 23:52:00,Product1,1200,Visa,Sarah,Switzerland,11/23/2008 4:51:00,46.1666667,6.1166667
+1/19/2009 13:15:00,Product1,1200,Visa,Esther,Sweden,5/29/2007 1:32:00,59.3833333,18.0666667
+1/16/2009 7:35:00,Product1,1200,Diners,amy,Germany,10/6/2006 2:02:00,48.7666667,9.1833333
+1/22/2009 9:48:00,Product2,3600,Mastercard,Jyoti,United Kingdom,1/8/2008 14:37:00,51.1333333,0.2833333
+1/18/2009 12:05:00,Product2,3600,Visa,Keri,United States,1/5/2009 19:24:00,47.53028,-122.03139
+1/4/2009 10:44:00,Product1,1200,Diners,Paul,Canada,11/26/2008 20:16:00,49.25,-122.95
+1/20/2009 14:55:00,Product1,1200,Mastercard,Attie,United States,9/27/2008 7:22:00,33.81694,-118.03639
+1/2/2009 18:41:00,Product1,1200,Visa,odile,United States,2/1/2006 8:47:00,40.15722,-76.30722
+1/2/2009 7:03:00,Product1,1200,Visa,gail,United Kingdom,5/24/2008 11:10:00,51.52721,0.14559
+1/21/2009 7:19:00,Product1,1200,Visa,Niki,United States,3/5/2008 11:25:00,39.87167,-75.59167
+1/11/2009 17:52:00,Product2,3600,Visa,Danny,United States,9/17/2003 11:57:00,18.35917,-64.92111
+1/16/2009 17:56:00,Product1,1200,Mastercard,Sarah,United States,1/16/2009 12:57:00,32.95444,-97.01472
+1/9/2009 20:00:00,Product1,1200,Visa,Beckie,United States,1/6/2009 13:50:00,33.57056,-117.63861
+1/13/2009 2:47:00,Product1,1200,Visa,Maryse,Ireland,1/13/2009 2:35:00,53.3005556,-6.2827778
+1/19/2009 4:23:00,Product2,3600,Mastercard,don,Italy,1/13/2008 11:41:00,39.2166667,9.1166667
+1/13/2009 12:51:00,Product1,1200,Visa,Majken,Denmark,5/27/2008 18:51:00,55.75,12.5833333
+1/29/2009 7:40:00,Product1,1200,Amex,Karen and Andrew,Germany,7/29/2003 9:23:00,49.55,11.5833333
+1/21/2009 4:34:00,Product1,1200,Visa,Katerina,Italy,4/24/2008 0:57:00,43.7666667,11.25
+1/7/2009 13:28:00,Product1,1200,Mastercard,Mary,Ireland,9/21/2005 15:42:00,53.6186111,-6.9205556
+1/26/2009 16:47:00,Product1,1200,Visa,Oscar,France,1/26/2009 4:53:00,45.9166667,6.8666667
+1/29/2009 1:01:00,Product1,1200,Diners,Suejean,Switzerland,1/20/2009 6:14:00,46.4,6.1833333
+1/25/2009 12:55:00,Product1,1200,Amex,ann,United States,12/6/2008 15:26:00,26.35833,-80.08333
+1/24/2009 13:35:00,Product1,1200,Visa,Renee,United States,5/11/2006 13:27:00,44.78944,-93.60194
+1/28/2009 13:30:00,Product1,1200,Visa,Catherine,United States,1/28/2009 13:03:00,39.61333,-105.01611
+1/20/2009 19:08:00,Product1,1200,Amex,Rhonda,United States,11/21/2008 5:52:00,33.74889,-84.38806
+1/29/2009 17:13:00,Product1,1200,Amex,alix,United States,12/12/2007 12:26:00,40.92528,-73.96333
+1/2/2009 5:33:00,Product1,1200,Visa,Mike,United Kingdom,10/18/2004 4:53:00,57.1333333,-2.1
+1/31/2009 11:03:00,Product1,1200,Visa,Diane,Sweden,1/25/2009 3:48:00,59.3166667,18.1166667
+1/13/2009 9:16:00,Product1,1200,Visa,Sigrun,United States,1/12/2009 20:48:00,36.16583,-86.78444
+1/19/2009 12:38:00,Product1,1200,Visa,Dania,Germany,1/19/2009 11:47:00,48.15,11.5833333
+1/18/2009 12:14:00,Product2,3600,Mastercard,Kelsi,Netherlands,12/12/2008 3:30:00,52.0833333,5.1333333
+1/22/2009 10:59:00,Product1,1200,Visa,Maria,United States,1/2/2009 14:09:00,45.04361,-92.04083
+1/14/2009 7:30:00,Product1,1200,Visa,Bent Erik,Spain,2/3/2008 2:56:00,43.0166667,-2.4
+1/19/2009 1:52:00,Product1,1200,Amex,Kirsten,Australia,4/24/2007 4:36:00,-37.8166667,144.9666667
+1/8/2009 23:00:00,Product1,1200,Visa,Dickson,Turkey,9/16/2008 2:07:00,41.1594444,28.9127778
+1/25/2009 7:29:00,Product1,1200,Diners,Howard,United Kingdom,1/22/2009 14:02:00,52.2,-2.2
+1/17/2009 15:19:00,Product1,1200,Visa,Dana,Ireland,1/15/2009 9:13:00,52.6819444,-7.8022222
+1/23/2009 12:23:00,Product1,1200,Mastercard,Nola,Netherlands,1/23/2009 11:11:00,52.0833333,4.3
+1/24/2009 8:45:00,Product1,1200,Visa,Elizabeth,United States,11/8/2008 14:45:00,41.03333,-73.6
+1/27/2009 3:45:00,Product2,3600,Visa,minjeong,Switzerland,1/27/2009 2:39:00,46.9166667,7.4666667
+1/29/2009 23:48:00,Product1,1200,Visa,Matt,United Kingdom,11/15/2008 6:49:00,52.6333333,-1.1333333
+1/3/2009 18:43:00,Product1,1200,Visa,Vanessa,Canada,7/3/2006 8:36:00,45.0166667,-74.7333333
+1/24/2009 17:18:00,Product2,3600,Visa,Charlotte,United States,2/15/2008 15:34:00,39.00611,-77.42889
+1/2/2009 15:13:00,Product1,1200,Visa,Rowena,Ireland,1/10/2006 7:05:00,51.8986111,-8.4958333
+1/8/2009 10:44:00,Product1,1200,Visa,Catherine,Canada,1/6/2009 13:03:00,43.9666667,-80.7333333
+1/29/2009 8:13:00,Product1,1200,Mastercard,Sarah,United States,1/28/2008 13:55:00,41.28139,-73.49861
+1/24/2009 10:26:00,Product1,1200,Visa,sorcha,Brazil,1/24/2009 4:47:00,-30.0333333,-51.2
+1/24/2009 12:56:00,Product1,1200,Visa,sorcha,Canada,1/12/2009 21:34:00,45.5333333,-73.7166667
+1/7/2009 13:38:00,Product1,1200,Mastercard,Mary,Germany,1/6/2009 13:40:00,48.7666667,9.1833333
+1/23/2009 15:38:00,Product1,1200,Visa,Ronja,United States,1/17/2009 15:05:00,40.71417,-74.00639
+1/26/2009 14:43:00,Product1,1200,Visa,Nicola,Ireland,1/26/2009 13:55:00,51.8333333,-9.9
+1/17/2009 20:33:00,Product1,1200,Amex,BURCAK,United States,1/9/2009 11:26:00,34.07528,-84.29417
+1/5/2009 9:15:00,Product1,1200,Visa,isabelle,Canada,8/21/2008 9:43:00,45.6333333,-73.85
+1/20/2009 8:16:00,Product1,1200,Mastercard,christy,United States,1/6/2009 8:33:00,35.08667,-89.81
+1/29/2009 12:46:00,Product1,1200,Visa,Lilly,Ireland,1/19/2009 16:00:00,53.3786111,-6.3922222
+1/15/2009 18:12:00,Product1,1200,Diners,Mandy,United States,1/29/2007 13:21:00,21.30694,-157.85833
+1/23/2009 13:55:00,Product1,1200,Mastercard,Elena,United States,8/7/2005 15:07:00,40.91139,-73.78278
+1/26/2009 10:26:00,Product1,1200,Visa,Lolarae,Canada,1/26/2009 10:16:00,51.0833333,-114.0833333
+1/12/2009 11:48:00,Product1,1200,Mastercard,Lisa,United States,7/5/2007 14:58:00,44.1786,-70.7164
+1/29/2009 15:20:00,Product1,1200,Mastercard,Nita and Trebor,United States,1/18/2009 20:47:00,39.75889,-84.19167
+1/28/2009 7:26:00,Product1,1200,Visa,Jenevieve,Canada,1/23/2009 19:04:00,43.55,-80.25
+1/14/2009 0:03:00,Product2,3600,Mastercard,Piret,Australia,6/16/2008 18:22:00,-33.3333333,115.6333333
+1/13/2009 1:55:00,Product1,1200,Mastercard,Damian,Germany,4/1/2006 22:29:00,49.5,6.6
+1/12/2009 23:21:00,Product1,1200,Mastercard,Lusell,Switzerland,1/6/2009 2:47:00,47.5166667,7.55
+1/22/2009 2:16:00,Product1,1200,Visa,Costanza,Turkey,9/7/2008 11:43:00,41.1438889,29.0905556
+1/29/2009 12:53:00,Product1,1200,Visa,Vanessa,France,1/29/2009 10:10:00,47.0333333,5.7666667
+1/28/2009 11:36:00,Product1,1200,Diners,Evelyn,Germany,1/28/2009 11:08:00,51.4666667,10.5
+1/19/2009 6:50:00,Product1,1200,Amex,Nicola,Belgium,7/13/2008 11:29:00,50.8333333,4.3333333
+1/30/2009 5:20:00,Product1,1200,Visa,Simone,Ireland,1/30/2009 4:06:00,52.6166667,-8.8833333
+1/19/2009 14:06:00,Product1,1200,Mastercard,Elisabeth,United States,1/19/2009 12:41:00,34.22556,-77.945
+1/8/2009 9:43:00,Product1,1200,Visa,Kasey,France,1/5/2009 9:05:00,43.5333333,5.4333333
+1/23/2009 9:09:00,Product2,3600,Amex,Olympe,Sweden,1/18/2006 11:49:00,59.3666667,18.1333333
+1/20/2009 8:58:00,Product1,1200,Visa,James,Canada,12/24/2008 17:51:00,53.55,-113.5
+1/2/2009 13:35:00,Product1,1200,Visa,Alyssa,France,7/29/2008 12:32:00,43.5833333,7.1166667
+1/9/2009 15:03:00,Product1,1200,Visa,Reto,United States,1/8/2009 18:59:00,47.60639,-122.33083
+1/23/2009 7:04:00,Product1,1200,Amex,Joelle,United States,1/20/2009 10:46:00,41.1175,-73.40833
+1/17/2009 10:14:00,Product1,1200,Mastercard,Nicole,Canada,1/17/2009 7:46:00,42.8333333,-80.3
+1/19/2009 16:16:00,Product1,1200,Mastercard,Alexandria,United States,9/3/2008 19:26:00,40.34083,-76.41167
+1/20/2009 13:54:00,Product1,1200,Mastercard,Elisabeth,Australia,12/20/2005 23:05:00,-27.4833333,153.2166667
+1/23/2009 21:35:00,Product1,1200,Visa,Ann,Australia,4/21/2007 19:33:00,-27.5,153.0166667
+1/21/2009 23:41:00,Product1,1200,Visa,Olga,France,2/4/2008 4:45:00,48.5833333,7.75
+1/21/2009 4:11:00,Product1,1200,Visa,Courtney,Czech Republic,9/30/2008 10:39:00,50.1333333,14.3833333
+1/10/2009 3:43:00,Product1,1200,Visa,stacy,Germany,3/5/2006 15:01:00,48.7666667,9.1833333
+1/15/2009 18:08:00,Product2,3600,Amex,Monica,United States,1/12/2009 17:16:00,40.03722,-75.34944
+1/20/2009 14:48:00,Product2,3600,Visa,Michael,Sweden,12/21/2008 11:49:00,58.6,16.1833333
+1/21/2009 11:56:00,Product1,1200,Visa,Katrin,Switzerland,3/21/2006 13:30:00,47.3333333,8.6166667
+1/30/2009 6:18:00,Product2,3600,Mastercard,Louise,Switzerland,1/14/2006 2:40:00,47.4166667,9.6
+1/12/2009 17:28:00,Product1,1200,Amex,Alfredo A,United States,12/3/2008 14:12:00,36.175,-115.13639
+1/29/2009 8:27:00,Product2,3600,Visa,Kerry,Czech Republic,1/27/2009 8:53:00,50.0833333,14.4666667
+1/24/2009 12:43:00,Product1,1200,Visa,Saeko,United States,2/2/2008 16:37:00,41.25639,-74.36028
+1/7/2009 10:49:00,Product2,3600,Visa,VIOLETA,United States,9/1/2008 13:09:00,38.99056,-77.02639
+1/11/2009 17:06:00,Product1,1200,Visa,Antje,United States,9/17/2008 15:12:00,38.58167,-121.49333
+1/30/2009 6:17:00,Product1,1200,Visa,janet,Ireland,1/30/2009 3:02:00,51.9333333,-8.5666667
+1/7/2009 10:52:00,Product1,1200,Visa,claire,Ireland,1/7/2009 9:42:00,52.5961111,-8.5469444
+1/27/2009 6:20:00,Product1,1200,Mastercard,Nathalie,United States,6/1/2006 12:04:00,38.81194,-77.63667
+1/21/2009 20:02:00,Product1,1200,Mastercard,Daria,Cayman Isls,1/10/2009 16:09:00,19.3,-81.3833333
+1/4/2009 16:23:00,Product1,1200,Visa,Judith L.,United States,1/4/2009 16:04:00,33.50917,-111.89833
+1/6/2009 12:26:00,Product1,1200,Visa,Audinet,United States,1/6/2009 8:40:00,42.375,-71.10611
+1/11/2009 4:34:00,Product1,1200,Visa,William,United Kingdom,4/26/2006 10:12:00,51.6,-0.55
+1/17/2009 6:39:00,Product1,1200,Diners,Tatjana and Martin,United Kingdom,1/12/2008 7:00:00,52.4666667,-1.9166667
+1/4/2009 3:41:00,Product1,1200,Mastercard,Scott,Netherlands,1/4/2005 12:43:00,52.0833333,4.3
+1/12/2009 5:50:00,Product3,7500,Mastercard,Brona,Netherlands,1/4/2005 12:43:00,52.0833333,4.3
+1/3/2009 13:43:00,Product1,1200,Mastercard,Andree,Ireland,10/22/2006 14:59:00,52.2166667,-9
+1/11/2009 6:51:00,Product1,1200,Visa,Aziz,Ukraine,1/11/2009 0:00:00,50.5166667,30.25
+1/17/2009 6:23:00,Product1,1200,Visa,Fernando,Italy,9/22/2008 10:48:00,42.7666667,11.1333333
+1/26/2009 18:38:00,Product1,1200,Visa,Jo,United States,10/26/2008 4:24:00,26.01083,-80.14972
+1/31/2009 13:26:00,Product1,1200,Visa,Joern,Canada,12/13/2008 18:12:00,42.9333333,-80.2833333
+1/21/2009 2:20:00,Product2,3600,Visa,Melissa,Switzerland,1/16/2009 7:06:00,46.1833333,6.1333333
+1/18/2009 13:25:00,Product1,1200,Visa,Melissa,United States,1/15/2009 11:57:00,41.40306,-72.45139
+1/18/2009 18:57:00,Product1,1200,Mastercard,isabela,United States,12/31/2008 8:16:00,38.96861,-77.34139
+1/31/2009 1:59:00,Product1,1200,Visa,Nacole,Italy,4/11/2005 2:40:00,45.4666667,9.2
+1/25/2009 16:08:00,Product1,1200,Diners,Jennifer,Canada,1/24/2009 20:12:00,49.25,-123.1333333
+1/16/2009 19:13:00,Product1,1200,Diners,Mary,United States,12/26/2008 9:28:00,34.07528,-84.29417
+1/31/2009 15:25:00,Product1,1200,Visa,Lisa,United States,1/28/2009 9:54:00,34.91583,-85.10917
+1/9/2009 8:57:00,Product1,1200,Diners,Debora,United States,1/21/2008 10:27:00,40.1478,-74.2133
+1/4/2009 22:18:00,Product2,3600,Mastercard,Karoline,Canada,11/27/2008 16:06:00,49.8833333,-124.55
+1/10/2009 15:18:00,Product2,3600,Mastercard,Jo,United States,10/17/2007 14:56:00,33.66028,-117.99833
+1/16/2009 19:47:00,Product1,1200,Amex,Kristen,United States,1/13/2009 20:49:00,37.22667,-121.97361
+1/25/2009 8:16:00,Product2,3600,Visa,Astrid,Norway,4/22/2007 2:19:00,59.9166667,10.75
+1/25/2009 8:48:00,Product1,1200,Mastercard,Malinda,United Kingdom,4/5/2008 13:20:00,51.75,-1.25
+1/17/2009 9:12:00,Product1,1200,Amex,Sylvia,United States,12/26/2006 14:23:00,38.80472,-77.04722
+1/24/2009 1:22:00,Product1,1200,Visa,Jupiterlina Elika,Italy,10/19/2004 2:38:00,41.9,12.4833333
+1/27/2009 15:09:00,Product1,1200,Visa,Aniko,United States,1/15/2009 12:50:00,43.55222,-87.96167
+1/25/2009 21:49:00,Product1,1200,Mastercard,Petra,United States,1/24/2009 1:35:00,37.775,-122.41833
+1/24/2009 8:51:00,Product1,1200,Mastercard,Heather,Philippines,1/19/2009 11:08:00,6.1036111,125.2163889
+1/6/2009 14:08:00,Product1,1200,Mastercard,Kim,Belgium,12/18/2008 7:04:00,50.8333333,4.3333333
+1/17/2009 14:06:00,Product1,1200,Amex,Ruby,United States,11/28/2004 18:58:00,41.20417,-73.7275
+1/21/2009 12:38:00,Product1,1200,Visa,Novy,Turkey,2/5/2007 12:43:00,41.0186111,28.9647222
+1/30/2009 23:49:00,Product2,3600,Visa,Stephanie,Netherlands,11/30/2008 11:54:00,52.2333333,5.1833333
+1/12/2009 12:00:00,Product1,1200,Mastercard,Tammy,United States,7/6/2008 8:49:00,44.94611,-68.64444
+1/29/2009 21:40:00,Product1,1200,Visa,Alessandra,Canada,6/17/2008 19:23:00,49.25,-123.1333333
+1/24/2009 13:38:00,Product1,1200,Mastercard,Cathy,United Kingdom,12/22/2008 3:57:00,52.3833333,-2.25
+1/25/2009 13:50:00,Product2,3600,Visa,Scott,Switzerland,1/25/2009 10:09:00,46.5333333,6.6666667
+1/12/2009 13:41:00,Product1,1200,Amex,dia,United Kingdom,8/19/2007 15:23:00,51.35,-0.35
+1/5/2009 11:44:00,Product1,1200,Visa,Lauren,Denmark,11/19/2008 3:55:00,56.15,9.8166667
+1/2/2009 8:31:00,Product1,1200,Visa,Line,Hungary,10/23/2008 8:15:00,47.45,18.9666667
+1/31/2009 7:13:00,Product1,1200,Amex,Sean,United Kingdom,1/3/2008 14:59:00,51.52721,0.14559
+1/20/2009 2:17:00,Product1,1200,Diners,Sarah,Dominican Republic,11/9/2008 1:26:00,18.4666667,-69.9
+1/25/2009 20:15:00,Product1,1200,Visa,Brian,United States,1/23/2009 22:33:00,41.2219,-73.887
+1/25/2009 19:44:00,Product1,1200,Mastercard,Lesa,Brazil,1/6/2005 21:17:00,-19.6666667,-43.9166667
+1/30/2009 9:00:00,Product1,1200,Mastercard,james,United States,7/4/2007 21:35:00,36.16583,-86.78444
+1/7/2009 19:18:00,Product1,1200,Mastercard,loudon,Canada,11/2/2007 20:26:00,45.4166667,-75.7
+1/4/2009 10:18:00,Product1,1200,Mastercard,Allison,United States,11/8/2008 9:42:00,26.14167,-81.795
+1/23/2009 14:57:00,Product1,1200,Mastercard,Surat,United States,7/29/2008 12:00:00,40.5945,-74.6244
+1/12/2009 10:08:00,Product2,3600,Mastercard,Judy,United States,5/31/2008 12:03:00,38.895,-77.03667
+1/19/2009 4:22:00,Product1,1200,Diners,brian,France,5/21/2007 7:22:00,49.5,6.1666667
+1/21/2009 21:37:00,Product1,1200,Visa,Rachel,China,1/21/2009 6:24:00,22.25,112.7833333
+1/25/2009 4:34:00,Product1,1200,Mastercard,Hilde,Netherlands,1/8/2009 5:16:00,53.2166667,6.55
+1/30/2009 1:09:00,Product1,1200,Mastercard,Tarja,Switzerland,11/30/2008 4:39:00,46.3,7.05
+1/26/2009 15:16:00,Product1,1200,Visa,Megan,United States,12/22/2008 20:09:00,35.41056,-80.84306
+1/15/2009 15:56:00,Product2,3600,Visa,Charmain,United States,1/2/2008 10:51:00,39.69861,-86.46361
+1/2/2009 20:47:00,Product1,1200,Visa,Katharina,United States,9/23/2008 20:57:00,33.01444,-97.09667
+1/25/2009 9:36:00,Product1,1200,Visa,Zaneta,United States,1/24/2009 10:36:00,42.68056,-83.13389
+1/20/2009 20:09:00,Product1,1200,Visa,Jeannette,United Arab Emirates,1/18/2009 9:58:00,25.2522222,55.28
+1/8/2009 11:14:00,Product2,3600,Visa,Liz,Switzerland,1/7/2009 10:25:00,47.2833333,8.5333333
+1/6/2009 20:39:00,Product2,3600,Mastercard,Christiane,Canada,1/6/2009 9:44:00,49.1333333,-122.3
+1/6/2009 18:10:00,Product1,1200,Visa,Cherie,United States,12/22/2008 14:12:00,39.96111,-82.99889
+1/11/2009 6:46:00,Product2,3600,Visa,Shiree,Ireland,8/25/2007 5:48:00,53.3244444,-6.3972222
+1/19/2009 14:26:00,Product1,1200,Mastercard,Tracey,Ireland,1/6/2009 13:24:00,53.3263889,-6.2947222
+1/31/2009 6:14:00,Product1,1200,Diners,Scott,United States,6/27/2008 4:15:00,40.99778,-72.29306
+1/6/2009 9:31:00,Product1,1200,Visa,Frances,United States,1/4/2009 3:18:00,32.71528,-117.15639
+1/21/2009 7:31:00,Product1,1200,Mastercard,Beatrice,United States,3/25/2008 13:23:00,39.74583,-75.54694
+1/20/2009 17:23:00,Product2,3600,Visa,Jessica,Canada,1/20/2008 18:01:00,43.6666667,-79.4166667
+1/29/2009 12:10:00,Product1,1200,Amex,Alison,United States,11/1/2007 21:25:00,47.61056,-122.19944
+1/24/2009 23:21:00,Product1,1200,Visa,elaine,Thailand,1/24/2009 22:47:00,7.8833333,98.4
+1/28/2009 10:37:00,Product1,1200,Visa,Chevonne,Greece,5/8/2008 4:26:00,37.9833333,23.7333333
+1/30/2009 14:36:00,Product1,1200,Visa,danielle,Switzerland,1/30/2009 13:50:00,46.2,6.1666667
+1/21/2009 2:07:00,Product1,1200,Mastercard,Caroline and Jonathan,United Kingdom,2/14/2006 14:43:00,50.8333333,-0.7833333
+1/26/2009 6:37:00,Product1,1200,Visa,manuela,Switzerland,6/4/2008 11:55:00,46.0166667,8.95
+1/4/2009 14:27:00,Product1,1200,Visa,Carole,United Kingdom,12/14/2005 10:47:00,51.5,-3.2
+1/9/2009 3:03:00,Product2,3600,Amex,Ghislaine,France,3/28/2008 5:53:00,46.25,6.1166667
+1/8/2009 19:26:00,Product2,3600,Visa,Christian,United States,11/30/2007 10:44:00,33.81861,-84.5825
+1/10/2009 16:02:00,Product1,1200,Visa,Hollie,United States,10/12/2007 13:03:00,32.71528,-117.15639
+1/6/2009 6:31:00,Product1,1200,Visa,mike,Belgium,1/3/2009 5:24:00,50.4666667,4.1833333
+1/23/2009 13:13:00,Product1,1200,Mastercard,Malahat,United States,4/3/2007 12:56:00,44.98,-93.26361
+1/18/2009 17:55:00,Product1,1200,Amex,Michaela,Brazil,3/9/2008 9:39:00,-26.1180556,-49.8016667
+1/5/2009 15:15:00,Product1,1200,Amex,Amy,United Kingdom,8/18/2005 2:04:00,51.1333333,0.8833333
+1/2/2009 10:32:00,Product1,1200,Mastercard,Brandi,Canada,12/24/2008 15:23:00,53.55,-113.5
+1/25/2009 9:27:00,Product1,1200,Visa,erin,United Kingdom,9/4/2006 14:35:00,51.52721,0.14559
+1/5/2009 6:12:00,Product1,1200,Diners,Tracy,Italy,1/4/2009 6:19:00,43.8333333,10.4833333
+1/6/2009 2:41:00,Product1,1200,Visa,Polyxene,Australia,11/20/2005 23:46:00,-31.9333333,115.8333333
+1/27/2009 14:42:00,Product2,3600,Mastercard,Jean,United States,1/8/2009 11:01:00,38.89028,-77.08444
+1/8/2009 12:03:00,Product1,1200,Diners,Andrea,Canada,8/13/2008 15:58:00,51.0833333,-114.0833333
+1/29/2009 12:16:00,Product1,1200,Mastercard,Jessica,United States,1/27/2009 15:56:00,29.47472,-82.86
+1/19/2009 10:47:00,Product1,1200,Mastercard,David,Norway,1/13/2009 13:53:00,58.9666667,5.75
+1/8/2009 2:49:00,Product2,3600,Mastercard,Caroline,Switzerland,1/7/2009 4:14:00,46.4333333,6.25
+1/19/2009 17:40:00,Product1,1200,Visa,Riche Lou,United States,3/12/2007 7:21:00,42.33694,-71.20972
+1/11/2009 0:15:00,Product1,1200,Mastercard,Chris,Netherlands,5/7/2007 4:07:00,52.0833333,4.3
+1/16/2009 5:12:00,Product2,3600,Visa,Karen,Switzerland,10/19/2007 12:31:00,47.35,8.3833333
+1/19/2009 6:52:00,Product1,1200,Diners,melanie,Costa Rica,1/19/2009 6:45:00,10.0333333,-84.15
+1/26/2009 1:14:00,Product1,1200,Visa,beatrice,Spain,1/23/2009 1:57:00,38.0166667,-1.1333333
+1/30/2009 10:31:00,Product1,1200,Mastercard,lorna,United States,10/6/2008 16:31:00,39.37222,-104.85556
+1/23/2009 5:52:00,Product1,1200,Amex,Tary,Switzerland,1/23/2009 1:22:00,47.1666667,8.5166667
+1/7/2009 9:54:00,Product1,1200,Visa,Julie,United Kingdom,1/7/2009 9:17:00,51.1,-4.1
+1/1/2009 16:44:00,Product1,1200,Amex,Julie,United States,9/12/2008 10:36:00,39.08389,-77.15306
+1/23/2009 9:27:00,Product1,1200,Mastercard,Jerome,Spain,2/19/2008 2:01:00,40.4,-3.6833333
+1/22/2009 12:56:00,Product1,1200,Visa,Laleh,Norway,1/20/2009 13:13:00,59.3488889,10.4675
+1/16/2009 13:35:00,Product1,1200,Visa,Michael,Italy,1/16/2009 12:43:00,45.4666667,9.2
+1/13/2009 9:26:00,Product1,1200,Visa,Kerry,Switzerland,1/24/2006 13:15:00,46.2833333,6.2166667
+1/25/2009 11:35:00,Product3,7500,Mastercard,Anita,United States,1/24/2009 9:24:00,29.53861,-95.44722
+1/26/2009 14:02:00,Product1,1200,Mastercard,Veronique,United States,1/24/2009 9:24:00,29.53861,-95.44722
+1/7/2009 13:26:00,Product1,1200,Visa,Sarah,Canada,7/27/2003 13:18:00,45.95,-71.9833333
+1/15/2009 11:45:00,Product1,1200,Diners,Simone,United Kingdom,9/4/2008 3:01:00,51.6666667,-0.4
+1/27/2009 12:02:00,Product1,1200,Visa,Jackie,Ireland,3/10/2008 13:51:00,52.2583333,-7.1119444
+1/28/2009 14:09:00,Product1,1200,Visa,giovanna,Poland,1/28/2009 13:40:00,52.1666667,20.8333333
+1/23/2009 7:13:00,Product1,1200,Visa,Elizabeth,Bermuda,1/19/2009 6:03:00,32.2941667,-64.7838889
+1/22/2009 15:59:00,Product2,3600,Visa,Lisa,Canada,1/21/2009 9:28:00,45.4166667,-75.7
+1/16/2009 10:27:00,Product1,1200,Mastercard,Maki,United States,1/15/2009 8:52:00,30.38806,-95.69611
+1/26/2009 22:45:00,Product1,1200,Amex,Anjan,Japan,5/15/2008 19:33:00,35.685,139.7513889
+1/25/2009 18:33:00,Product1,1200,Mastercard,Sarah,United States,1/25/2009 15:56:00,41.25056,-87.83139
+1/16/2009 6:13:00,Product1,1200,Mastercard,Niamh,South Africa,1/16/2009 5:22:00,-26.1833333,28.3166667
+1/12/2009 17:19:00,Product2,3600,Diners,elizabeth r,United States,1/12/2009 16:18:00,28.02194,-81.73306
+1/2/2009 4:21:00,Product1,1200,Visa,Elaine,Norway,7/30/2007 11:42:00,59.8166667,10.25
+1/5/2009 3:03:00,Product1,1200,Diners,Elizabeth,Ireland,5/21/2008 7:50:00,51.8986111,-8.4958333
+1/15/2009 15:22:00,Product1,1200,Visa,Sara,United States,1/6/2009 18:19:00,26.12194,-80.14361
+1/26/2009 5:38:00,Product2,3600,Amex,Tulin,United States,9/28/2008 19:40:00,40.69472,-80.13111
+1/24/2009 10:38:00,Product1,1200,Visa,Kenneth,United States,1/24/2009 9:27:00,38.89028,-77.08444
+1/2/2009 7:30:00,Product1,1200,Mastercard,Fiona,United States,10/27/2008 0:00:00,40.835,-73.13167
+1/26/2009 6:38:00,Product1,1200,Visa,Christian,United States,1/25/2009 10:13:00,38.80472,-77.04722
+1/17/2009 7:56:00,Product3,7500,Diners,Michel,Italy,1/17/2009 7:25:00,38.4666667,14.95
+1/17/2009 7:58:00,Product3,7500,Diners,natalie,Italy,1/17/2009 7:25:00,38.4666667,14.95
+1/18/2009 4:32:00,Product1,1200,Diners,jure,Italy,1/17/2009 7:25:00,38.4666667,14.95
+1/26/2009 8:00:00,Product1,1200,Amex,Elizabeth,United States,1/23/2009 11:12:00,32.23694,-80.86056
+1/11/2009 8:41:00,Product1,1200,Amex,Juliann,United States,1/8/2008 7:24:00,28.69861,-81.30833
+1/21/2009 10:32:00,Product1,1200,Mastercard,Julie,United States,5/23/2007 11:55:00,42.59972,-71.36778
+1/29/2009 12:27:00,Product1,1200,Mastercard,philippa katherine,Ireland,11/8/2006 4:50:00,53.2594444,-6.1447222
+1/13/2009 13:19:00,Product2,3600,Mastercard,Anthony,Canada,3/16/2006 19:11:00,43.6666667,-79.4166667
+1/31/2009 18:12:00,Product1,1200,Visa,matthew,United States,4/2/2006 11:49:00,39.16194,-84.45694
+1/22/2009 15:35:00,Product1,1200,Visa,Steven,United States,2/24/2008 16:57:00,29.76306,-95.36306
+1/5/2009 11:24:00,Product1,1200,Amex,Angie,United States,1/25/2008 16:50:00,38.01722,-122.2875
+1/23/2009 11:23:00,Product1,1200,Mastercard,Lauren,United States,8/26/2008 9:37:00,41.70028,-73.92139
+1/7/2009 20:55:00,Product1,1200,Mastercard,Esther,United States,1/7/2009 20:25:00,39.16194,-84.45694
+1/13/2009 9:40:00,Product1,1200,Visa,Elizabeth,United States,1/26/2005 19:09:00,41.865,-69.99167
+1/25/2009 15:18:00,Product2,3600,Visa,marie-louise,United States,3/2/2008 15:27:00,57.05306,-135.33
+1/30/2009 20:58:00,Product2,3600,Mastercard,Tanya,Canada,1/30/2009 14:05:00,60.1833333,-134.7166667
+1/31/2009 4:50:00,Product1,1200,Mastercard,Detlev,Sweden,1/12/2009 1:03:00,59.5,18.05
+1/20/2009 10:05:00,Product2,3600,Visa,Stephen,Canada,1/9/2009 10:36:00,51.0833333,-114.0833333
+1/9/2009 5:15:00,Product1,1200,Visa,Roza,Spain,9/9/2008 9:08:00,40.5333333,-3.6333333
+1/13/2009 7:09:00,Product2,3600,Amex,John,United States,1/8/2009 13:49:00,41.85,-87.65
+1/3/2009 11:03:00,Product1,1200,Mastercard,paula,United States,1/1/2009 22:43:00,47.64194,-122.07917
+1/17/2009 20:51:00,Product1,1200,Visa,Kathryn,New Zealand,1/6/2009 21:52:00,-37.1333333,174.75
+1/5/2009 7:55:00,Product1,1200,Mastercard,Isabelle,United States,12/31/2008 7:40:00,21.31556,-158.00722
+1/25/2009 14:40:00,Product1,1200,Visa,Maureen,United States,1/25/2009 13:52:00,35.7825,-80.8875
+1/25/2009 17:55:00,Product1,1200,Visa,David,United States,1/24/2009 12:18:00,22.07833,-159.32194
+1/3/2009 12:54:00,Product1,1200,Diners,caterina,United States,12/30/2008 8:39:00,34.18083,-118.30806
+1/22/2009 3:57:00,Product2,3600,Mastercard,Parth,Netherlands,1/20/2009 14:36:00,52.1833333,4.4666667
+1/23/2009 5:11:00,Product1,1200,Visa,Alexia,Ireland,7/15/2008 7:20:00,53.3030556,-6.1830556
+1/25/2009 11:52:00,Product2,3600,Mastercard,Gloria Gail,Austria,1/25/2009 5:03:00,47.65,12.3166667
+1/10/2009 4:12:00,Product1,1200,Visa,Gloria Gail,Ireland,1/7/2009 7:39:00,53.2666667,-6.1741667
+1/10/2009 9:32:00,Product2,3600,Mastercard,Cheryl,United States,1/10/2005 21:39:00,32.21611,-80.75278
+1/22/2009 12:45:00,Product3,7500,Visa,Frank and Christelle,United States,1/22/2009 10:25:00,33.21833,-117.03333
+1/6/2009 18:11:00,Product2,3600,Mastercard,Triona,United States,6/9/2006 8:57:00,42.47083,-70.91806
+1/19/2009 5:56:00,Product1,1200,Visa,Allison,United Kingdom,7/27/2008 11:58:00,55.95,-3.2
+1/25/2009 10:50:00,Product1,1200,Diners,Phillip,United States,5/29/2008 19:51:00,29.42389,-98.49333
+1/14/2009 8:38:00,Product1,1200,Visa,jingyan,United States,3/12/2007 15:14:00,41.67694,-71.26667
+1/2/2009 17:24:00,Product2,3600,Diners,clara,Australia,1/1/2009 21:20:00,-31.9333333,115.8333333
+1/7/2009 18:15:00,Product1,1200,Mastercard,Selma,United States,1/5/2009 18:16:00,33.13833,-96.11056
+1/3/2009 21:19:00,Product1,1200,Visa,Doug and Tina,United States,12/24/2007 22:59:00,33.80056,-118.38917
+1/4/2009 5:13:00,Product1,1200,Visa,Lauren,Czech Republic,3/5/2006 0:51:00,50.2116667,15.8441667
+1/4/2009 9:28:00,Product1,1200,Visa,Jen,United Kingdom,7/18/2005 14:17:00,51.2666667,0.5166667
+1/2/2009 4:34:00,Product1,1200,Visa,gladys,United Kingdom,1/10/2006 4:20:00,51.75,-0.3333333
+1/22/2009 11:10:00,Product1,1200,Mastercard,Gustavo,Romania,7/28/2008 11:12:00,44.4666667,26.1333333
+1/7/2009 12:06:00,Product1,1200,Visa,Erica,Malta,3/30/2006 2:02:00,36.0377778,14.2941667
+1/29/2009 13:25:00,Product1,1200,Diners,Hale,United States,11/3/2005 18:14:00,39.65361,-105.19056
+1/27/2009 2:57:00,Product1,1200,Visa,Rosemary,United Kingdom,1/27/2009 2:50:00,51.3833333,0.4
+1/7/2009 13:19:00,Product1,1200,Visa,Darian,Turkey,8/26/2008 7:33:00,38.4072222,27.1502778
+1/23/2009 10:04:00,Product1,1200,Mastercard,Kevin,United States,5/30/2006 20:25:00,34.09833,-118.32583
+1/19/2009 4:55:00,Product1,1200,Visa,Alyssa,United Kingdom,2/19/2008 9:27:00,50.8333333,-0.15
+1/28/2009 22:02:00,Product1,1200,Visa,Hale,New Zealand,1/23/2009 22:31:00,-39.5916667,174.2833333
+1/4/2009 18:57:00,Product1,1200,Mastercard,KELI,Australia,12/23/2008 15:17:00,-28.05,153.35
+1/12/2009 20:31:00,Product1,1200,Visa,Glen,Guatemala,1/6/2009 16:53:00,14.65,-90.4833333
+1/24/2009 12:00:00,Product1,1200,Visa,T,Spain,12/30/2008 15:19:00,40.5833333,-4.1166667
+1/28/2009 11:19:00,Product1,1200,Visa,christal,United States,6/20/2004 17:16:00,39.65361,-105.19056
+1/7/2009 17:48:00,Product1,1200,Mastercard,Alex,United States,6/10/2005 20:25:00,33.51722,-82.07583
+1/23/2009 12:42:00,Product2,3600,Mastercard,Anke,Australia,3/3/2008 17:38:00,-33.6333333,151.3333333
+1/7/2009 19:48:00,Product2,3600,Mastercard,TRICIA,Australia,9/21/2008 20:49:00,-33.8833333,151.2166667
+1/26/2009 11:19:00,Product1,1200,Mastercard,smith,Finland,1/4/2009 5:25:00,60.9666667,25.6666667
+1/5/2009 13:23:00,Product1,1200,Visa,Macy,Austria,1/5/2009 11:28:00,48.2166667,16.3666667
+1/26/2009 13:41:00,Product1,1200,Mastercard,Lesleigh,Switzerland,10/23/2005 9:23:00,47.4666667,8.3
+1/20/2009 10:42:00,Product2,3600,Diners,esther,United Kingdom,1/20/2009 9:15:00,53.65,-1.7833333
+1/22/2009 14:25:00,Product1,1200,Visa,Hans-Joerg,United Kingdom,11/10/2008 12:15:00,54.5833333,-5.9333333
+1/28/2009 5:36:00,Product2,3600,Visa,Christiane,Mauritius,1/9/2009 8:10:00,-20.3602778,57.3661111
+1/1/2009 4:24:00,Product3,7500,Amex,Pamela,United States,12/28/2008 17:28:00,42.94694,-76.42944
+1/8/2009 11:55:00,Product1,1200,Diners,julie,United Kingdom,11/29/2006 13:31:00,52.0833333,0.4333333
+1/12/2009 21:30:00,Product1,1200,Visa,Julia,United States,11/17/2008 22:24:00,43.07306,-89.40111
